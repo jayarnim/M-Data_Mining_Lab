@@ -25,7 +25,7 @@
 - **`2024.03.06.` Classical Latent Factor Model**
   - Matrix Factorization
 
-- **`2024.03.20.` BPR**
+- **`2024.03.20.` Latent Factor Model for Implicit Feedback**
   - Bayesian Personalized Ranking from Implicit Feedback
 
 - **`2024.04.03.` Deep Learning based Latent Factor Model**
