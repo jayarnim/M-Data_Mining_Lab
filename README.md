@@ -26,23 +26,25 @@
   - Matrix Factorization
 
 - **`2024.03.20.` BPR**
-  - BPR
+  - Bayesian Personalized Ranking from Implicit Feedback
 
 - **`2024.04.03.` Deep Learning based Latent Factor Model**
-  - NCF
+  - Neural Collaborative Filtering
   - AutoRec
 
-- **`2024.04.17.` FM, Hybrid Latent Factor Model**
+### Hybrid Latent Factor Model
+
+- **`2024.04.17.` FM**
   - Factorization Machines
-  - DeepFM
-  - NFM
+  - Deep Factorization Machines
+  - Neural Factorization Machines
 
-- **`2024.05.01.` FFM, Hybrid Latent Factor Model**
-  - FFM
-  - DeepFFM
-  - NFFM
+- **`2024.05.01.` FFM**
+  - Field-aware Factorization Machines
+  - Deep Field-aware Factorization Machines
+  - Neural Field-aware Factorization Machines
 
-- **`2024.05.15.` Wide & Deep, Hybrid Latent Factor Model**
+- **`2024.05.15.` Wide & Deep Learning**
   - Wide & Deep Learning
 
 ### Sequence based RecSys
