@@ -73,3 +73,13 @@
 - **`2024.08.21.` Knowledge Graph**
   - RippleNet
   - KGAT
+
+</br>
+
+## Reference
+
+- 추천 시스템, 차루 아가르왈 저
+
+- [딥러닝을 활용한 추천 시스템 구현](https://fastcampus.co.kr/data_online_rs), [이재원](https://github.com/jaewonlee-728), 패스트캠퍼스
+
+- [30개 프로젝트로 끝내는 추천 시스템 초격차 패키지](https://fastcampus.co.kr/data_online_rsystem), 패스트캠퍼스
