@@ -1,6 +1,8 @@
 # Data Mining Lab
 
-- Director [Je-Hyuk Lee](https://github.com/jaylee07), Assistant Professor @ Dept of AI, Bigdata & Management, Kookmin University
+- Director [Je-Hyuk Lee](https://github.com/jaylee07)
+
+  - Assistant Professor @ Dept of AI, Bigdata & Management, Kookmin University
 
 </br>
 
