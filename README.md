@@ -28,51 +28,55 @@
 - **`2024.03.20.` Latent Factor Model for Implicit Feedback**
   - Bayesian Personalized Ranking from Implicit Feedback
 
-- **`2024.04.03.` Deep Learning based Latent Factor Model**
-  - Neural Collaborative Filtering
+- **`2024.04.03.` AutoEncoder based Latent Factor Model**
   - AutoRec
+  - Deep AutoRec
+  - Variational AutoRec
 
 ### Hybrid Latent Factor Model
 
-- **`2024.04.17.` FM**
+- **`2024.04.17.` NCF**
+  - Neural Collaborative Filtering
+
+- **`2024.05.01.` FM**
   - Factorization Machines
   - Deep Factorization Machines
   - Neural Factorization Machines
 
-- **`2024.05.01.` FFM**
+- **`2024.05.15.` FFM**
   - Field-aware Factorization Machines
   - Deep Field-aware Factorization Machines
   - Neural Field-aware Factorization Machines
 
-- **`2024.05.15.` Wide & Deep Learning**
+- **`2024.05.29.` Wide & Deep Learning**
   - Wide & Deep Learning
 
 ### Sequence based RecSys
 
-- **`2024.05.29.` RNN based RecSys**
+- **`2024.06.12.` RNN based RecSys**
   - GRU4REC
 
-- **`2024.06.12.` Self Attention Mechanism based RecSys**
+- **`2024.06.26.` Self Attention Mechanism based RecSys**
   - SASREC
 
-- **`2024.06.26.` BERT based RecSys**
+- **`2024.07.10.` BERT based RecSys**
   - BERT4REC
 
 ### Graph based RecSys
 
-- **`2024.07.10.` Classical Graph**
+- **`2024.07.24.` Classical Graph**
   - PageRank
 
-- **`2024.07.24.` Graph Embedding**
+- **`2024.08.07.` Graph Embedding**
   - DeepWalk
   - GraphSAGE
   - PinSAGE
 
-- **`2024.08.07.` Graph Neural Networks**
+- **`2024.08.21.` Graph Neural Networks**
   - GCN
   - GAT
 
-- **`2024.08.21.` Knowledge Graph**
+- **`2024.09.04.` Knowledge Graph**
   - RippleNet
   - KGAT
 
