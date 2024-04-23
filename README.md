@@ -18,15 +18,15 @@
   - User based Collaborative Filtering
   - Item based Collaborative Filtering
 
-- **`2024.02.22.` User Free Model**
-  - SLIM
-  - FISM
-
-- **`2024.03.06.` Classical Latent Factor Model**
+- **`2024.02.22.` Classical Latent Factor Model**
   - Matrix Factorization
 
-- **`2024.03.20.` Latent Factor Model for Implicit Feedback**
+- **`2024.03.06.` Latent Factor Model for Implicit Feedback**
   - Bayesian Personalized Ranking from Implicit Feedback
+
+- **`2024.03.20.` User Free Model**
+  - SLIM
+  - FISM
 
 - **`2024.04.03.` AutoEncoder based Latent Factor Model**
   - AutoRec
