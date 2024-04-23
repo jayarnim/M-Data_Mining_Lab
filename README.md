@@ -70,14 +70,13 @@
 - **`2024.08.07.` Graph Embedding**
   - DeepWalk
   - GraphSAGE
-  - PinSAGE
 
 - **`2024.08.21.` Graph Neural Networks**
   - GCN
   - GAT
+  - RippleNet
 
 - **`2024.09.04.` Knowledge Graph**
-  - RippleNet
   - KGAT
 
 </br>
