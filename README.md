@@ -24,14 +24,13 @@
 - **`2024.03.06.` Latent Factor Model for Implicit Feedback**
   - Bayesian Personalized Ranking from Implicit Feedback
 
-- **`2024.03.20.` User Free Model**
-  - SLIM
-  - FISM
-
-- **`2024.04.03.` AutoEncoder based Latent Factor Model**
+- **`2024.03.20.` AutoEncoder based Latent Factor Model**
   - AutoRec
   - Deep AutoRec
-  - Variational AutoRec
+
+- **`2024.04.03.` User Free Model**
+  - SLIM
+  - FISM
 
 ### Hybrid Latent Factor Model
 
