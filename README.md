@@ -24,18 +24,21 @@
 - **`2024.03.06.` Latent Factor Model for Implicit Feedback**
   - Bayesian Personalized Ranking from Implicit Feedback
 
-- **`2024.03.20.` AutoEncoder based Latent Factor Model**
-  - AutoRec
-  - Deep AutoRec
-
-- **`2024.04.03.` User Free Model**
+- **`2024.03.20.` User Free Model**
   - SLIM
   - FISM
 
-### Hybrid Latent Factor Model
+### Latent Factor Model with Deep Learning
 
-- **`2024.04.17.` NCF**
+- **`2024.04.03.` NCF**
   - Neural Collaborative Filtering
+
+- **`2024.04.17.` AutoEncoder based Latent Factor Model**
+  - AutoRec
+  - Deep AutoRec
+  - Variational AutoRec
+
+### Hybrid Latent Factor Model
 
 - **`2024.05.01.` FM**
   - Factorization Machines
