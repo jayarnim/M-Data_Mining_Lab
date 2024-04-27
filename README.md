@@ -36,7 +36,6 @@
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - AutoRec
   - Deep AutoRec
-  - Variational AutoRec
 
 ### Hybrid Latent Factor Model
 
