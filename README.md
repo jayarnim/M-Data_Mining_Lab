@@ -21,7 +21,7 @@
 - **`2024.02.22.` Classical Latent Factor Model**
   - Matrix Factorization
 
-- **`2024.03.06.` Latent Factor Model for Implicit Feedback**
+- **`2024.03.06.` Latent Factor Model for Ranking Prediction**
   - Bayesian Personalized Ranking from Implicit Feedback
 
 - **`2024.03.20.` User Free Model**
