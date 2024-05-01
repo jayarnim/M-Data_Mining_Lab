@@ -15,8 +15,7 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - User based Collaborative Filtering
-  - Item based Collaborative Filtering
+  - Memory based Collaborative Filtering
 
 - **`2024.02.22.` Classical Latent Factor Model**
   - Matrix Factorization
