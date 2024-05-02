@@ -30,7 +30,7 @@
 ### Latent Factor Model with Deep Learning
 
 - **`2024.04.03.` NCF**
-  - Neural Collaborative Filtering
+  - [Neural Collaborative Filtering](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - AutoRec
