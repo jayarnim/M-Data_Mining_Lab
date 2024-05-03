@@ -74,7 +74,7 @@ class Model(tf.keras.Model):
 
     def _error_generator(self):
         CONDITION_00 = (type(self.num_users)==int) & (type(self.num_items)==int) & (type(self.num_factors)==int) & (type(self.units_mlp)==list) & (type(self.units_neumf)==list) & (type(self.dropout)==float)
-        ERROR_MESSAGE_00 = "파라미터에 아규먼트가 올바르게 입력되지 않았습니다."
+        ERROR_MESSAGE_00 = "파라미터에 할당된 아규먼트가 올바르지 않습니다."
         assert CONDITION_00, ERROR_MESSAGE_00
 
         CONDITION_01 = self.units_mlp[-1]==self.num_factors
