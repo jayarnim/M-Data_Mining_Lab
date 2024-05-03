@@ -44,40 +44,40 @@
   - Deep Factorization Machines
   - Neural Factorization Machines
 
-- **`2024.05.15.` FFM**
+- **`2024.05.22.` FFM**
   - Field-aware Factorization Machines
   - Deep Field-aware Factorization Machines
   - Neural Field-aware Factorization Machines
 
-- **`2024.05.29.` Wide & Deep Learning**
+- **`2024.06.05.` Wide & Deep Learning**
   - Wide & Deep Learning
 
 ### Sequence based RecSys
 
-- **`2024.06.12.` RNN based RecSys**
+- **`2024.06.19.` RNN based RecSys**
   - GRU4REC
 
-- **`2024.06.26.` Self Attention Mechanism based RecSys**
+- **`2024.07.03.` Self Attention Mechanism based RecSys**
   - SASREC
 
-- **`2024.07.10.` BERT based RecSys**
+- **`2024.07.17.` BERT based RecSys**
   - BERT4REC
 
 ### Graph based RecSys
 
-- **`2024.07.24.` Classical Graph**
+- **`2024.07.31.` Classical Graph**
   - PageRank
 
-- **`2024.08.07.` Graph Embedding**
+- **`2024.08.14.` Graph Embedding**
   - DeepWalk
   - GraphSAGE
 
-- **`2024.08.21.` Graph Neural Networks**
+- **`2024.08.28.` Graph Neural Networks**
   - GCN
   - GAT
   - RippleNet
 
-- **`2024.09.04.` Knowledge Graph**
+- **`2024.09.11.` Knowledge Graph**
   - KGAT
 
 </br>
