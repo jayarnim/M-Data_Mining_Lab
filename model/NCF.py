@@ -1,7 +1,15 @@
 import tensorflow as tf
 
 class Model(tf.keras.Model):
-    def __init__(self, num_users, num_items, num_factors, units_mlp, units_neumf, dropout=0.5):
+    def __init__(
+            self, 
+            num_users: int, 
+            num_items: int, 
+            num_factors: int, 
+            units_mlp: list, 
+            units_neumf: list, 
+            dropout: float=0.5
+            ):
         """
         Arguments
         num_users           : 사용자 수
@@ -24,7 +32,10 @@ class Model(tf.keras.Model):
         self._layer_initializer()
 
 
-    def call(self, inputs):
+    def call(
+            self, 
+            inputs: list
+            ):
         """
         Arguments
         inputs            : [user, item]
