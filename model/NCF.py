@@ -73,11 +73,17 @@ class Model(tf.keras.Model):
 
 
     def _error_generator(self):
+        CONDITION_00 = (type(self.num_users)==int) & (type(self.num_items)==int) & (type(self.num_factors)==int) & (type(self.units_mlp)==list) & (type(self.units_neumf)==list) & (type(self.dropout)==float)
+        ERROR_MESSAGE_00 = "파라미터에 아규먼트가 올바르게 입력되지 않았습니다."
+        assert CONDITION_00, ERROR_MESSAGE_00
+
+        CONDITION_01 = self.units_mlp[-1]==self.num_factors
         ERROR_MESSAGE_01 = "MLP PART 의 마지막 출력 노드 갯수는 NUM_FACTORS 와 동일해야 합니다."
-        assert self.units_mlp[-1]==self.num_factors, ERROR_MESSAGE_01
+        assert CONDITION_01, ERROR_MESSAGE_01
         
+        CONDITION_02 = (len(self.units_mlp)<=4) & (len(self.units_neumf)<=3)
         ERROR_MESSAGE_02 = "MLP PART 의 Hidden Layers 는 최대 4, NeuMF PART 의 Hidden Layers 는 최대 3 이 적정합니다."
-        assert (len(self.units_mlp)<=4) & (len(self.units_neumf)<=3), ERROR_MESSAGE_02
+        assert CONDITION_02, ERROR_MESSAGE_02
 
 
     def _layer_initializer(self):
