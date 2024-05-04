@@ -40,7 +40,7 @@
 ### Hybrid Latent Factor Model
 
 - **`2024.05.01.` FM**
-  - Factorization Machines
+  - [Factorization Machines](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)
   - Deep Factorization Machines
   - Neural Factorization Machines
 
