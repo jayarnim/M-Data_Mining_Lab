@@ -3,7 +3,16 @@ import pandas as pd
 from tqdm import tqdm
 
 class Model():
-    def __init__(self, n_factors, learning_rate, reg_w, reg_v, n_iterations, categorical_columns, categorical_pairs):
+    def __init__(
+            self,
+            n_factors: int,
+            learning_rate: float, 
+            reg_w: float, 
+            reg_v: float, 
+            n_iterations: int, 
+            categorical_columns: list, 
+            categorical_pairs: list[tuple[str, str]]
+            ):
         """
         Arguments
         n_factors               : 잠재요인 수
