@@ -86,17 +86,18 @@ class Model():
         self.W = np.zeros(n_features)
         self.V = np.random.normal(0, 1 / self.n_factors, (n_features, self.n_factors))
 
-
     def _sgd(self, X, y):
+        feature_indices = {feature: idx for idx, feature in enumerate(X.columns)}
+        interaction_indices = [(feature_indices[pair[0]], feature_indices[pair[1]]) for pair in self.categorical_pairs]
+
         for idx, row in X.iterrows():
             error = self.predict(row) - y.iloc[idx]
             self.b -= self.learning_rate * error
             self.W -= self.learning_rate * (error * row + 2 * self.reg_w * self.W)
-            for i in range(X.shape[1]):
-                for j in range(i + 1, X.shape[1]):
-                    grad_v = error * (X.iloc[idx, i] * X.iloc[idx, j]) * (self.V[i, :] + self.V[j, :])
-                    self.V[i, :] -= self.learning_rate * (grad_v + 2 * self.reg_v * self.V[i, :])
-                    self.V[j, :] -= self.learning_rate * (grad_v + 2 * self.reg_v * self.V[j, :])
+            for i, j in interaction_indices:
+                grad_v = error * (X.iloc[idx, i] * X.iloc[idx, j]) * (self.V[i, :] + self.V[j, :])
+                self.V[i, :] -= self.learning_rate * (grad_v + 2 * self.reg_v * self.V[i, :])
+                self.V[j, :] -= self.learning_rate * (grad_v + 2 * self.reg_v * self.V[j, :])
 
 
     def _compute_rmse(self, X, y):
