@@ -35,49 +35,41 @@
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - AutoRec
   - Deep AutoRec
-  - Variational AutoRec
-
-### Hybrid Latent Factor Model
 
 - **`2024.05.01.` FM**
   - [Factorization Machines](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)
+  - Field-aware Factorization Machines
+  - Wide & Deep Learning
   - Deep Factorization Machines
   - Neural Factorization Machines
-
-- **`2024.05.22.` FFM**
-  - Field-aware Factorization Machines
-  - Deep Field-aware Factorization Machines
-  - Neural Field-aware Factorization Machines
-
-- **`2024.06.05.` Wide & Deep Learning**
-  - Wide & Deep Learning
+  - Attentional Factorization Machines
 
 ### Sequence based RecSys
 
-- **`2024.06.19.` RNN based RecSys**
+- **`2024.05.22.` RNN based RecSys**
   - GRU4REC
 
-- **`2024.07.03.` Self Attention Mechanism based RecSys**
+- **`2024.06.05.` Self Attention Mechanism based RecSys**
   - SASREC
 
-- **`2024.07.17.` BERT based RecSys**
+- **`2024.06.19.` BERT based RecSys**
   - BERT4REC
 
 ### Graph based RecSys
 
-- **`2024.07.31.` Classical Graph**
+- **`2024.07.03.` Classical Graph**
   - PageRank
 
-- **`2024.08.14.` Graph Embedding**
+- **`2024.07.17.` Graph Embedding**
   - DeepWalk
   - GraphSAGE
 
-- **`2024.08.28.` Graph Neural Networks**
+- **`2024.07.31.` Graph Neural Networks**
   - GCN
   - GAT
   - RippleNet
 
-- **`2024.09.11.` Knowledge Graph**
+- **`2024.08.14.` Knowledge Graph**
   - KGAT
 
 </br>
