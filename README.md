@@ -36,13 +36,13 @@
   - AutoRec
   - Deep AutoRec
 
-- **`2024.05.01.` FM**
-  - [Factorization Machines](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)
-  - Field-aware Factorization Machines
+- **`2024.05.01.` FM Series**
+  - [Factorization Machine](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)
+  - Field-aware Factorization Machine
   - Wide & Deep Learning
-  - Deep Factorization Machines
-  - Neural Factorization Machines
-  - Attentional Factorization Machines
+  - Deep Factorization Machine
+  - Neural Factorization Machine
+  - Attentional Factorization Machine
 
 ### Sequence based RecSys
 
