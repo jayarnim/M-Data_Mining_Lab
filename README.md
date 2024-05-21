@@ -17,61 +17,61 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - Memory based Collaborative Filtering </br> Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992
+  - **Memory based Collaborative Filtering** </br> Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - Matrix Factorization </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009
+  - **Matrix Factorization** </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - BPR </br> Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
+  - **BPR** </br> Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
 
 - **`2024.03.20.` User Free Model**
-  - SLIM </br> Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
-  - FISM </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
+  - **SLIM** </br> Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
+  - **FISM** </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
 
 - **`2024.04.03.` NCF**
-  - [Neural Collaborative Filtering](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
+  - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
-  - AutoRec </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
-  - Deep AutoRec
+  - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
+  - **Deep AutoRec**
 
 - **`2024.05.01.` FM Series**
-  - [Factorization Machine](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
-  - Field-aware Factorization Machine </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
-  - Neural Factorization Machine </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
-  - Attentional Factorization Machine </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
-  - Deep Factorization Machine </br> Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
-  - Wide & Deep Learning </br> Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
+  - [**Factorization Machine**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
+  - **Field-aware Factorization Machine** </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
+  - **Neural Factorization Machine** </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
+  - **Attentional Factorization Machine** </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
+  - **Deep Factorization Machine** </br> Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
+  - **Wide & Deep Learning** </br> Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
 
 </br>
 
 ### Sequence based RecSys
 
 - **`2024.05.22.` RNN based RecSys**
-  - GRU4REC </br> Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016
+  - **GRU4REC** </br> Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016
 
 - **`2024.06.05.` Self Attention Mechanism based RecSys**
-  - SASREC </br> Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018
+  - **SASREC** </br> Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018
 
 - **`2024.06.19.` BERT based RecSys**
-  - BERT4REC </br> Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019
+  - **BERT4REC** </br> Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019
 
 </br>
 
 ### Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
-  - PageRank </br> Page et al., "The PageRank Citation Ranking: Bringing Order to the Web", WWW, 1999
+  - **PageRank** </br> Page et al., "The PageRank Citation Ranking: Bringing Order to the Web", WWW, 1999
 
 - **`2024.07.17.` Graph Embedding**
-  - DeepWalk </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
-  - GraphSAGE </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
+  - **DeepWalk** </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
+  - **GraphSAGE** </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
 
 - **`2024.07.31.` Graph Neural Networks**
-  - GCN </br> Kipf and Welling, "Semi-Supervised Classification with Graph Convolutional Networks”, ICLR, 2017
-  - GAT <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
-  - RippleNet </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
+  - **GCN based RecSys** </br> Kipf and Welling, "Semi-Supervised Classification with Graph Convolutional Networks”, ICLR, 2017
+  - **GAT** <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
+  - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
 - **`2024.08.14.` Knowledge Graph**
   - KGAT
