@@ -22,7 +22,7 @@
 - **`2024.02.22.` Classical Latent Factor Model**
   - `Matrix Factorization`
 
-    - Koren et al., "Matrix Factorization Techniques for Recommender Systems," IEEE Computer, 2009)
+    - Koren et al., "Matrix Factorization Techniques for Recommender Systems," IEEE Computer, 2009
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
   - `BPR`
