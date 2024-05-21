@@ -27,6 +27,7 @@
 
 - **`2024.03.20.` User Free Model**
   - **SLIM** </br> Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
+
   - **FISM** </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
 
 - **`2024.04.03.` NCF**
@@ -34,14 +35,20 @@
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
+
   - **Deep AutoRec**
 
 - **`2024.05.01.` FM Series**
   - [**Factorization Machine**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
+
   - **Field-aware Factorization Machine** </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
+
   - **Neural Factorization Machine** </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
+
   - **Attentional Factorization Machine** </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
+
   - **Deep Factorization Machine** </br> Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
+
   - **Wide & Deep Learning** </br> Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
 
 </br>
@@ -66,11 +73,14 @@
 
 - **`2024.07.17.` Graph Embedding**
   - **DeepWalk** </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
+
   - **GraphSAGE** </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
 
 - **`2024.07.31.` Graph Neural Networks**
   - **GCN based RecSys** </br> Kipf and Welling, "Semi-Supervised Classification with Graph Convolutional Networks”, ICLR, 2017
+
   - **GAT** <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
+
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
 - **`2024.08.14.` Knowledge Graph**
