@@ -37,8 +37,6 @@
 - **`2024.05.01.` FM Series**
   - [Factorization Machine](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)
   - Field-aware Factorization Machine
-  - Wide & Deep Learning
-  - Deep Factorization Machine
   - Neural Factorization Machine
   - Attentional Factorization Machine
   - Deep Factorization Machine
