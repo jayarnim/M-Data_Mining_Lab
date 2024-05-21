@@ -20,29 +20,29 @@
   - Memory based Collaborative Filtering
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - `Matrix Factorization`\\Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE Computer, 2009
+  - Matrix Factorization </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE Computer, 2009
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - `BPR`\\Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
+  - BPR </br> Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
 
 - **`2024.03.20.` User Free Model**
-  - `SLIM`\\Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
-  - `FISM`\\Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
+  - SLIM </br> Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
+  - FISM </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
 
 - **`2024.04.03.` NCF**
   - [Neural Collaborative Filtering](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
-  - `AutoRec`\\Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
-  - `Deep AutoRec`
+  - AutoRec </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
+  - Deep AutoRec
 
 - **`2024.05.01.` FM Series**
-  - [`Factorization Machine`](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py)\\Rendle, "Factorization Machines", ICDM, 2010
-  - `Field-aware Factorization Machine`\\Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
-  - `Neural Factorization Machine`\\He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
-  - `Attentional Factorization Machine`\\Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
-  - `Deep Factorization Machine`\\Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
-  - `Wide & Deep Learning`\\Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
+  - [Factorization Machine](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
+  - Field-aware Factorization Machine </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
+  - Neural Factorization Machine </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
+  - Attentional Factorization Machine </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
+  - Deep Factorization Machine </br> Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
+  - Wide & Deep Learning </br> Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
 
 </br>
 
