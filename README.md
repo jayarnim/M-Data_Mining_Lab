@@ -69,7 +69,7 @@
 ### Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
-  - **PageRank** </br> Page et al., "The PageRank Citation Ranking: Bringing Order to the Web", WWW, 1999
+  - **PageRank** </br> Peter Lofgren, "Efficient Algorithms for Personalized PageRank", ar5iv, 2015
 
 - **`2024.07.17.` Graph Embedding**
   - **DeepWalk** </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
@@ -77,7 +77,7 @@
   - **GraphSAGE** </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
 
 - **`2024.07.31.` Graph Neural Networks**
-  - **GCN based RecSys** </br> Liu et al., "Interest-aware Message-Passing GCN for Recommendation", WWW, 2021
+  - **GCN based RecSys** </br> Liu et al., "Interest-aware Message-Passing GCN for Recommendation", ar5iv, 2021
 
   - **GAT** <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
 
