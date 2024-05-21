@@ -92,7 +92,6 @@
   - RECGAN
 
 - **`2024.11.27.` GAN based Latent Factor Model**
-  - CollaGAN
   - GANMF
   - APR
 
