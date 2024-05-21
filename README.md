@@ -106,18 +106,20 @@
   - GraphVAE for Recommendation
 
 - **`2024.11.13.` GAN based Collaborative Filtering**
-  - IRGAN
-  - RECGAN
+  - **IRGAN** </br> Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017
+
+  - **RECGAN** </br>
 
 - **`2024.11.27.` GAN based Latent Factor Model**
-  - GANMF
-  - APR
+  - **GANMF**
+
+  - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
 
 - **`2024.12.18.` GAN based Sequential RecSys**
-  - SeqGAN
+  - **SeqGAN** </br> Yu et al., "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient", AAAI, 2017
 
 - **`2025.01.08.` GAN based Graph RecSys**
-  - GraphGAN
+  - **GraphGAN** </br> Wang et al., "GraphGAN: Graph Representation Learning with Generative Adversarial Nets", AAAI, 2018
 
 - **`2025.01.22.` VAE & GAN**
   - Deep Generative Model for Collaborative Filtering (DGM-CF)
