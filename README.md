@@ -91,10 +91,10 @@
   - **VAECF** </br> Liang  et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018
 
 - **`2024.10.16.` VAE based Latent Factor Model**
-  - Collaborative Variational Autoencoder (CVAE)
+  - **CVAE** </br> Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016
 
 - **`2024.10.30.` VAE based Hybrid RecSys**
-  - Mult-VAE: Multinomial Variational Autoencoder
+  - **Mult-VAE** </br> Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018
 
 - **`2024.11.13.` GAN based Collaborative Filtering**
   - **IRGAN** </br> Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017
@@ -102,7 +102,7 @@
   - **RECGAN** </br> Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018
 
 - **`2024.11.27.` GAN based Latent Factor Model**
-  - **GANMF**
+  - **GANMF** </br> Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022
 
   - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
 
