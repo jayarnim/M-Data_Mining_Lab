@@ -84,7 +84,7 @@
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
 - **`2024.08.14.` Knowledge Graph**
-  - KGAT
+  - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
 
 </br>
 
