@@ -6,13 +6,15 @@
 
 </br>
 
-## ProLogue
+## RecSys
+
+### ProLogue
 
 - **`2024.01.18.` What? RecSys**
 
 </br>
 
-## Collaborative Filtering based RecSys
+### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
   - Memory based Collaborative Filtering
@@ -44,7 +46,7 @@
 
 </br>
 
-## Sequence based RecSys
+### Sequence based RecSys
 
 - **`2024.05.22.` RNN based RecSys**
   - GRU4REC
@@ -57,7 +59,7 @@
 
 </br>
 
-## Graph based RecSys
+### Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
   - PageRank
@@ -76,7 +78,7 @@
 
 </br>
 
-## Generative Model based RecSys
+### Generative Model based RecSys
 
 - **`2024.08.28.` VAE based Collaborative Filtering**
   - Variational Autoencoder for Collaborative Filtering (VAECF)
