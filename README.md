@@ -72,6 +72,39 @@
 
 ### Generative Model based RecSys
 
+- **`2024.08.28.` VAE based Collaborative Filtering**
+  - Variational Autoencoder for Collaborative Filtering (VAECF)
+
+- **`2024.09.11.` VAE based Latent Factor Model**
+  - Collaborative Variational Autoencoder (CVAE)
+
+- **`2024.09.25.` VAE based Hybrid RecSys**
+  - Mult-VAE: Multinomial Variational Autoencoder
+
+- **`2024.10.16.` VAE based Sequential RecSys**
+  - Sequential Variational Autoencoder (SVAE)
+
+- **`2024.10.30.` VAE based Graph RecSys**
+  - GraphVAE for Recommendation
+
+- **`2024.11.13.` GAN based Collaborative Filtering**
+  - IRGAN
+  - RECGAN
+
+- **`2024.11.27.` GAN based Latent Factor Model**
+  - CollaGAN
+  - GANMF
+  - APR
+
+- **`2024.12.18.` GAN based Sequential RecSys**
+  - SeqGAN
+
+- **`2025.01.08.` GAN based Graph RecSys**
+  - GraphGAN
+
+- **`2025.01.22.` VAE & GAN**
+  - Deep Generative Model for Collaborative Filtering (DGM-CF)
+
 </br>
 
 ## Reference
