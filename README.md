@@ -39,7 +39,7 @@
   - **Deep AutoRec** </br> Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, arXiv, 2017
 
 - **`2024.05.01.` FM Series**
-  - [**Factorization Machine**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
+  - [**Factorization Machine**]() </br> Rendle, "Factorization Machines", ICDM, 2010
 
   - **Field-aware Factorization Machine** </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
 
