@@ -97,12 +97,6 @@
 - **`2024.09.25.` VAE based Hybrid RecSys**
   - Mult-VAE: Multinomial Variational Autoencoder
 
-- **`2024.10.16.` VAE based Sequential RecSys**
-  - Sequential Variational Autoencoder (SVAE)
-
-- **`2024.10.30.` VAE based Graph RecSys**
-  - GraphVAE for Recommendation
-
 - **`2024.11.13.` GAN based Collaborative Filtering**
   - **IRGAN** </br> Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017
 
@@ -112,12 +106,6 @@
   - **GANMF**
 
   - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
-
-- **`2024.12.18.` GAN based Sequential RecSys**
-  - **SeqGAN** </br> Yu et al., "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient", AAAI, 2017
-
-- **`2025.01.08.` GAN based Graph RecSys**
-  - **GraphGAN** </br> Wang et al., "GraphGAN: Graph Representation Learning with Generative Adversarial Nets", AAAI, 2018
 
 - **`2025.01.22.` VAE & GAN**
   - Deep Generative Model for Collaborative Filtering (DGM-CF)
