@@ -26,8 +26,8 @@
   - `BPR` (Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback," UAI, 2009)
 
 - **`2024.03.20.` User Free Model**
-  - `SLIM` (Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems," ICDM, 2011.)
-  - `FISM`
+  - `SLIM` (Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems," ICDM, 2011)
+  - `FISM` (Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems," KDD, 2013)
 
 - **`2024.04.03.` NCF**
   - [Neural Collaborative Filtering](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
