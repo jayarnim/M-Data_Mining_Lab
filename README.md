@@ -49,29 +49,29 @@
 ### Sequence based RecSys
 
 - **`2024.05.22.` RNN based RecSys**
-  - GRU4REC
+  - GRU4REC </br> Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016
 
 - **`2024.06.05.` Self Attention Mechanism based RecSys**
-  - SASREC
+  - SASREC </br> Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018
 
 - **`2024.06.19.` BERT based RecSys**
-  - BERT4REC
+  - BERT4REC </br> Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019
 
 </br>
 
 ### Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
-  - PageRank
+  - PageRank </br> Page et al., "The PageRank Citation Ranking: Bringing Order to the Web", WWW, 1999
 
 - **`2024.07.17.` Graph Embedding**
-  - DeepWalk
-  - GraphSAGE
+  - DeepWalk </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
+  - GraphSAGE </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
 
 - **`2024.07.31.` Graph Neural Networks**
-  - GCN
-  - GAT
-  - RippleNet
+  - GCN </br> Kipf and Welling, "Semi-Supervised Classification with Graph Convolutional Networks”, ICLR, 2017
+  - GAT <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
+  - RippleNet </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
 - **`2024.08.14.` Knowledge Graph**
   - KGAT
