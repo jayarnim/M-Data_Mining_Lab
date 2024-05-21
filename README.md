@@ -41,6 +41,8 @@
   - Deep Factorization Machine
   - Neural Factorization Machine
   - Attentional Factorization Machine
+  - Deep Factorization Machine
+  - Wide & Deep Learning
 
 ### Sequence based RecSys
 
