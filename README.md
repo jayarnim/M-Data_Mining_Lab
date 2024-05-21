@@ -69,21 +69,18 @@
 ### Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
-  - **PageRank** </br> Peter Lofgren, "Efficient Algorithms for Personalized PageRank", ar5iv, 2015
+  - PageRank
 
 - **`2024.07.17.` Graph Embedding**
-  - **DeepWalk** </br> Perozzi et al., "DeepWalk: Online Learning of Social Representations", KDD, 2014
-
-  - **GraphSAGE** </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
+  - DeepWalk
+  - GraphSAGE
 
 - **`2024.07.31.` Graph Neural Networks**
-  - **GCN based RecSys** </br> Liu et al., "Interest-aware Message-Passing GCN for Recommendation", ar5iv, 2021
-
-  - **GAT** <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
-
-  - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
+  - GCN
+  - GAT
 
 - **`2024.08.14.` Knowledge Graph**
+  - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
   - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
 
 </br>
@@ -108,7 +105,7 @@
 - **`2024.11.13.` GAN based Collaborative Filtering**
   - **IRGAN** </br> Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017
 
-  - **RECGAN** </br>
+  - **RECGAN** </br> Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018
 
 - **`2024.11.27.` GAN based Latent Factor Model**
   - **GANMF**
