@@ -106,7 +106,7 @@
 
   - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
 
-- **`2025.12.11.` VAE & GAN**
+- **`2025.12.11.` Collaborative Filtering leveraging VAE & GAN**
   - Deep Generative Model for Collaborative Filtering (DGM-CF)
 
 </br>
