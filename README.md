@@ -68,18 +68,19 @@
 
 ### Graph based RecSys
 
-- **`2024.07.03.` Classical Graph**
-  - PageRank
+- **`2024.07.03.` PageRank based RecSys**
+  - **PPR**
 
 - **`2024.07.17.` Graph Embedding**
   - DeepWalk
   - GraphSAGE
 
-- **`2024.07.31.` Graph Neural Networks**
-  - GCN
+- **`2024.07.31.` GCN based RecSys**
+  - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
+
   - GAT
 
-- **`2024.08.14.` Knowledge Graph**
+- **`2024.08.14.` Knowledge Graph based RecSys**
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
   - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
