@@ -36,7 +36,7 @@
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
 
-  - **Deep AutoRec**
+  - **Deep AutoRec** </br> Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, arXiv, 2017
 
 - **`2024.05.01.` FM Series**
   - [**Factorization Machine**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/FactorizationMachines.py) </br> Rendle, "Factorization Machines", ICDM, 2010
@@ -88,7 +88,7 @@
 ### Generative Model based RecSys
 
 - **`2024.09.25.` VAE based Collaborative Filtering**
-  - Variational Autoencoder for Collaborative Filtering (VAECF)
+  - **VAECF** </br> Liang  et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018
 
 - **`2024.10.16.` VAE based Latent Factor Model**
   - Collaborative Variational Autoencoder (CVAE)
