@@ -31,7 +31,7 @@
   - **FISM** </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
 
 - **`2024.04.03.` NCF**
-  - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
+  - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py) </br> He et al., "Neural Collaborative Filtering", WWW, 2017
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
