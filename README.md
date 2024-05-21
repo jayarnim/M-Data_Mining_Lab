@@ -20,14 +20,21 @@
   - Memory based Collaborative Filtering
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - `Matrix Factorization` (Koren et al., "Matrix Factorization Techniques for Recommender Systems," IEEE Computer, 2009)
+  - `Matrix Factorization`
+
+    - Koren et al., "Matrix Factorization Techniques for Recommender Systems," IEEE Computer, 2009)
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - `BPR` (Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback," UAI, 2009)
+  - `BPR`
+
+    - Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback," UAI, 2009)
 
 - **`2024.03.20.` User Free Model**
-  - `SLIM` (Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems," ICDM, 2011)
-  - `FISM` (Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems," KDD, 2013)
+  - `SLIM`
+    - Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems," ICDM, 2011
+
+  - `FISM`
+    - Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems," KDD, 2013
 
 - **`2024.04.03.` NCF**
   - [Neural Collaborative Filtering](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
