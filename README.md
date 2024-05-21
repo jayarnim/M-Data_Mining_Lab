@@ -78,21 +78,18 @@
 - **`2024.07.31.` GCN based RecSys**
   - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
 
-  - GAT
-
 - **`2024.08.14.` Knowledge Graph based RecSys**
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
+- **`2024.08.28.` Knowledge Graph based RecSys leveraging GAT**
   - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
 
 </br>
 
 ### Generative Model based RecSys
 
-- **`2024.08.28.` VAE based Collaborative Filtering**
+- **`2024.09.11.` VAE based Collaborative Filtering**
   - Variational Autoencoder for Collaborative Filtering (VAECF)
-
-- **`2024.09.11.` VAE based Latent Factor Model**
   - Collaborative Variational Autoencoder (CVAE)
 
 - **`2024.09.25.` VAE based Hybrid RecSys**
