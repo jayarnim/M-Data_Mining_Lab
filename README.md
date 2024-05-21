@@ -72,6 +72,8 @@
 - **`2024.08.14.` Knowledge Graph**
   - KGAT
 
+### Generative Model based RecSys
+
 </br>
 
 ## Reference
