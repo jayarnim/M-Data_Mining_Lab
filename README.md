@@ -6,13 +6,13 @@
 
 </br>
 
-## RecSys
-
-### ProLogue
+## ProLogue
 
 - **`2024.01.18.` What? RecSys**
 
-### Collaborative Filtering based RecSys
+</br>
+
+## Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
   - Memory based Collaborative Filtering
@@ -42,7 +42,9 @@
   - Deep Factorization Machine
   - Wide & Deep Learning
 
-### Sequence based RecSys
+</br>
+
+## Sequence based RecSys
 
 - **`2024.05.22.` RNN based RecSys**
   - GRU4REC
@@ -53,7 +55,9 @@
 - **`2024.06.19.` BERT based RecSys**
   - BERT4REC
 
-### Graph based RecSys
+</br>
+
+## Graph based RecSys
 
 - **`2024.07.03.` Classical Graph**
   - PageRank
@@ -70,7 +74,9 @@
 - **`2024.08.14.` Knowledge Graph**
   - KGAT
 
-### Generative Model based RecSys
+</br>
+
+## Generative Model based RecSys
 
 - **`2024.08.28.` VAE based Collaborative Filtering**
   - Variational Autoencoder for Collaborative Filtering (VAECF)
