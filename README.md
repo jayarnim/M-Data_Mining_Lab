@@ -77,7 +77,7 @@
   - **GraphSAGE** </br> Hamilton et al., "Inductive Representation Learning on Large Graphs", NIPS, 2017
 
 - **`2024.07.31.` Graph Neural Networks**
-  - **GCN based RecSys** </br> Kipf and Welling, "Semi-Supervised Classification with Graph Convolutional Networks”, ICLR, 2017
+  - **GCN based RecSys** </br> Liu et al., "Interest-aware Message-Passing GCN for Recommendation", WWW, 2021
 
   - **GAT** <br> Veličković et al., "Graph Attention Networks”, ICLR, 2018
 
