@@ -69,29 +69,31 @@
 ### Graph based RecSys
 
 - **`2024.07.03.` PageRank based RecSys**
-  - **PPR**
 
-- **`2024.07.17.` Graph Embedding**
-  - DeepWalk
+- **`2024.07.17.` DeepWalk based RecSys**
 
 - **`2024.07.31.` GraphSAGE based RecSys**
   - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
 
-- **`2024.08.14.` Knowledge Graph based RecSys**
+- **`2024.08.14.` GCN based RecSys**
+
+- **`2024.08.28.` Knowledge Graph based RecSys**
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
-- **`2024.08.28.` Knowledge Graph based RecSys leveraging GAT**
+- **`2024.09.11.` Knowledge Graph based RecSys leveraging GAT**
   - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
 
 </br>
 
 ### Generative Model based RecSys
 
-- **`2024.09.11.` VAE based Collaborative Filtering**
+- **`2024.09.25.` VAE based Collaborative Filtering**
   - Variational Autoencoder for Collaborative Filtering (VAECF)
+
+- **`2024.10.16.` VAE based Latent Factor Model**
   - Collaborative Variational Autoencoder (CVAE)
 
-- **`2024.09.25.` VAE based Hybrid RecSys**
+- **`2024.10.30.` VAE based Hybrid RecSys**
   - Mult-VAE: Multinomial Variational Autoencoder
 
 - **`2024.11.13.` GAN based Collaborative Filtering**
@@ -104,7 +106,7 @@
 
   - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
 
-- **`2025.01.22.` VAE & GAN**
+- **`2025.12.11.` VAE & GAN**
   - Deep Generative Model for Collaborative Filtering (DGM-CF)
 
 </br>
