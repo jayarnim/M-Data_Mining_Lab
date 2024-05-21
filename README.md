@@ -17,10 +17,10 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - Memory based Collaborative Filtering
+  - Memory based Collaborative Filtering </br> Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - Matrix Factorization </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE Computer, 2009
+  - Matrix Factorization </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
   - BPR </br> Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
