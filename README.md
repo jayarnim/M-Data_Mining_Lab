@@ -73,9 +73,8 @@
 
 - **`2024.07.17.` Graph Embedding**
   - DeepWalk
-  - GraphSAGE
 
-- **`2024.07.31.` GCN based RecSys**
+- **`2024.07.31.` GraphSAGE based RecSys**
   - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
 
 - **`2024.08.14.` Knowledge Graph based RecSys**
