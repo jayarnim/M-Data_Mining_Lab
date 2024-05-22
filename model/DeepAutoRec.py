@@ -107,7 +107,7 @@ class Trainer:
     def _dataset_loader(self, data, mask):
         masked = (data != mask).float()
         dataset = torch.utils.data.TensorDataset(data, masked)
-        dataloader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, shuffle=True)
+        dataloader = torch.utils.data.DataLoader(dataset=dataset, batch_size=batch_size, shuffle=True)
         return dataloader
 
     def _masked_mse_loss(self, pred, target, masked):
