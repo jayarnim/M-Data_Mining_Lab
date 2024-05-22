@@ -77,7 +77,7 @@ class Trainer:
             refeeding=True
             ):
         # 데이터 세트 올리기
-        dataloader = self._dataset_loader(data=data, mask=mask)
+        dataloader = self._data_loader(data=data, mask=mask)
         # 모형을 학습 가능한 상태로 전환
         self.model.train()
 
@@ -105,7 +105,7 @@ class Trainer:
 
             print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}, Refeeding Loss: {refeeding_loss.item():.4f}')
 
-    def _dataset_loader(self, data, mask):
+    def _data_loader(self, data, mask):
         masked = (data != mask).float()
         dataset = torch.utils.data.TensorDataset(data, masked)
         dataloader = torch.utils.data.DataLoader(dataset=dataset, batch_size=batch_size, shuffle=True)
