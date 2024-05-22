@@ -75,34 +75,32 @@
 - **`2024.07.31.` GraphSAGE based RecSys**
   - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
 
-- **`2024.08.14.` GCN based RecSys**
-
-- **`2024.08.28.` Knowledge Graph based RecSys**
+- **`2024.08.14.` Knowledge Graph based RecSys**
   - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
 
-- **`2024.09.11.` Knowledge Graph based RecSys leveraging GAT**
+- **`2024.08.28.` Knowledge Graph based RecSys leveraging GAT**
   - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
 
 </br>
 
 ### Generative Model based RecSys
 
-- **`2024.09.25.` VAE based Latent Factor Model**
+- **`2024.09.11.` VAE based Latent Factor Model**
   - **CVAE** </br> Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016
 
   - **Mult-VAE** </br> Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018
 
-- **`2024.10.16.` GAN based Collaborative Filtering**
+- **`2024.09.25.` GAN based Collaborative Filtering**
   - **IRGAN** </br> Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017
 
   - **RECGAN** </br> Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018
 
-- **`2024.10.30.` GAN based Latent Factor Model**
+- **`2024.10.16.` GAN based Latent Factor Model**
   - **GANMF** </br> Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022
 
   - **APR** </br> He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018
 
-- **`2024.11.13.` Collaborative Filtering leveraging VAE & GAN**
+- **`2024.10.30.` Collaborative Filtering leveraging VAE & GAN**
   - **DGM-CF** </br> Jiang et al., "Deep Generative Model for Collaborative Filtering", SIGIR, 2017
 
 </br>
