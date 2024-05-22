@@ -17,7 +17,7 @@ class Model(nn.Module):
         self.dropout_rate = dropout_rate
 
     def forward(self, x):
-        _layer_generator(self)
+        self._layer_generator()
         encoded = encoder(x)
         decoded = decoder(encoded)
         return encoded, decoded
