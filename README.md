@@ -43,7 +43,7 @@
 
   - **Field-aware Factorization Machine** </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
 
-  - **Neural Factorization Machine** </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
+  - [**Neural Factorization Machine**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py) </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
 
   - **Attentional Factorization Machine** </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
 
