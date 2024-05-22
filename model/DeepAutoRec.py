@@ -67,7 +67,7 @@ class Trainer:
         if criterion=='mse':
             self.criterion = self._masked_mse_loss
 
-    def train(
+    def fit(
             self,
             data, 
             mask,
