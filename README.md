@@ -36,7 +36,7 @@
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
 
-  - **Deep AutoRec** </br> Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, arXiv, 2017
+  - [**Deep AutoRec**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/DeepAutoRec.py) </br> Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, arXiv, 2017
 
 - **`2024.05.01.` FM Series**
   - [**Factorization Machine**]() </br> Rendle, "Factorization Machines", ICDM, 2010
