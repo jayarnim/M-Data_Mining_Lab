@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
+from tqdm import tqdm
 
 
 class Model(nn.Module):
@@ -81,7 +82,7 @@ class Trainer:
         self.model.train()
 
         for epoch in range(num_epochs):
-            for batch_data, batch_mask in dataloader:
+            for batch_data, batch_mask in tqdm(dataloader):
                 # First Step
                 # Initialize Params
                 self.optimizer.zero_grad()
