@@ -16,8 +16,9 @@ class Model(nn.Module):
         self.latent_dim = latent_dim
         self.dropout_rate = dropout_rate
 
-    def forward(self, x):
         self._layer_generator()
+
+    def forward(self, x):
         encoded = encoder(x)
         decoded = decoder(encoded)
         return encoded, decoded
