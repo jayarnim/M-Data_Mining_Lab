@@ -10,7 +10,7 @@ class Model(nn.Module):
             latent_dim, 
             dropout_rate=0.5
             ):
-        super(DeepAutoRec, self).__init__()
+        super(Model, self).__init__()
 
         self.input_dim = input_dim
         self.latent_dim = latent_dim
