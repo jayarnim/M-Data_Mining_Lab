@@ -19,11 +19,11 @@ class Model(nn.Module):
         self._layer_generator()
 
     def forward(self, x):
-        encoded = encoder(x)
-        decoded = decoder(encoded)
+        encoded = self._encoder(x)
+        decoded = self._decoder(encoded)
         return encoded, decoded
 
-    def encoder(self, x):
+    def _encoder(self, x):
         x = torch.relu(self.encoder_dense1(x))
         x = self.dropout(x)
         x = torch.relu(self.encoder_dense2(x))
@@ -31,7 +31,7 @@ class Model(nn.Module):
         encoded = torch.relu(self.encoder_dense3(x))
         return encoded
 
-    def decoder(self, x):
+    def _decoder(self, x):
         x = torch.relu(self.decoder_dense1(x))
         x = self.dropout(x)
         x = torch.relu(self.decoder_dense2(x))
