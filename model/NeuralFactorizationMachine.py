@@ -27,19 +27,23 @@ class Model(nn.Module):
     def _linear_part(self, numeric_inputs, categorical_inputs):
         # One-Hot Encoding for Categorical Features
         one_hot_categorical = self.one_hot_encoder(categorical_inputs)
+        
         # Linear Input
         linear_part_inputs = torch.cat([numeric_inputs.float(), one_hot_categorical], dim=1)
+        
         # Compute
         linear_part_output = self.linear_layer(linear_part_inputs)
+        
         return linear_part_output
 
     def _interaction_part(self, numeric_inputs, categorical_inputs):
-        # Create Latent Factor
         # Embedding for numeric features
         numeric_embeds = self.numeric_embeddings(numeric_inputs)
+        
         # Embedding for categorical features
         category_embeds = [self.category_embeddings[i](categorical_inputs[:, i]) for i in range(len(self.category_embeddings))]
         category_embeds = torch.stack(category_embeds, dim=1)
+        
         # Concatenate all embeddings
         combined_embeds = torch.cat([numeric_embeds, category_embeds], dim=1)
         
@@ -65,18 +69,18 @@ class Model(nn.Module):
         total_linear_features = self.num_numeric_features + sum(self.num_categoric_features)
         self.linear_layer = nn.Linear(total_linear_features, 1, bias=True)
 
-        # Interaction part
-        # Embedding layer
+        # Embedding layer for Interaction part
         self.numeric_embeddings = nn.Embedding(num_numeric_features, embedding_dim)
         self.category_embeddings = nn.ModuleList([nn.Embedding(cat_size, embedding_dim) for cat_size in num_categories])
-        # Interaction layer
+        
+        # Interaction layer for Interaction part
         input_dim = self.num_latent_factor * (self.num_numeric_features + len(self.num_categoric_features))
-
         self.interaction_layer = nn.ModuleList()
         for hidden_dim in self.hidden_layers_unit:
             self.interaction_layer.append(nn.Linear(input_dim, hidden_dim))
             input_dim = hidden_dim
 
+        # Output lyaer for Interaction part
         self.interaction_output = nn.Linear(input_dim, 1)
 
     def _one_hot_encoder(self, categorical_inputs):
