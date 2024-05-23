@@ -17,7 +17,7 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - **Memory based Collaborative Filtering** </br> [Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992]((https://dl.acm.org/doi/abs/10.1145/138859.138867))
+  - **Memory based Collaborative Filtering** </br> [Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992](https://dl.acm.org/doi/abs/10.1145/138859.138867)
 
 - **`2024.02.22.` Classical Latent Factor Model**
   - **Matrix Factorization** </br> [Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
