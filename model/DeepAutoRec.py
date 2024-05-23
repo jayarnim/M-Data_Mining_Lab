@@ -76,9 +76,10 @@ class Trainer:
             learning_rate=0.001, 
             refeeding=True
             ):
-        # 데이터 세트 올리기
+        # Load Data Set
         dataloader = self._data_loader(data=data, mask=mask)
-        # 모형을 학습 가능한 상태로 전환
+        
+        # Transform the Model to a Trainable State
         self.model.train()
 
         for epoch in range(num_epochs):
