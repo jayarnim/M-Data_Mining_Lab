@@ -56,13 +56,13 @@
 ### Sequence based RecSys
 
 - **`2024.05.22.` RNN based RecSys**
-  - **GRU4REC** </br> Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016
+  - **GRU4REC** </br> [Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016](https://arxiv.org/abs/1511.06939)
 
 - **`2024.06.05.` Self Attention Mechanism based RecSys**
-  - **SASREC** </br> Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018
+  - **SASREC** </br> [Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
 
 - **`2024.06.19.` BERT based RecSys**
-  - **BERT4REC** </br> Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019
+  - **BERT4REC** </br> [Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
 
 </br>
 
