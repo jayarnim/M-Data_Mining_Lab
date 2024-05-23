@@ -73,13 +73,13 @@
 - **`2024.07.17.` DeepWalk based RecSys**
 
 - **`2024.07.31.` GraphSAGE based RecSys**
-  - **PinSAGE** </br> Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018
+  - **PinSAGE** </br> [Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
 
 - **`2024.08.14.` Knowledge Graph based RecSys**
-  - **RippleNet** </br> Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018
+  - **RippleNet** </br> [Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3269206.3271739?casa_token=R1-vKJgCzrsAAAAA:x-U83HRTCb83izvU4lkdL29VKSeUgBBgFOpgWmjwpsa6PGdjVig-jaoUI6YdzKY6LihmfGshjhcp2Ks)
 
 - **`2024.08.28.` Knowledge Graph based RecSys leveraging GAT**
-  - **KGAT** </br> Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019
+  - **KGAT** </br> [Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019](https://dl.acm.org/doi/abs/10.1145/3292500.3330989?casa_token=H-IaOAQVwHwAAAAA:2299fELWgPC7Y7f14vmWKDt0ZhrWV3I01NYuM6s1CoOyEwrltgYDzs1jP6GK_zU6v5qiwXHByDAqmIQ)
 
 </br>
 
