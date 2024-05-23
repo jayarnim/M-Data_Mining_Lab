@@ -17,21 +17,21 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - **Memory based Collaborative Filtering** </br> Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992
+  - **Memory based Collaborative Filtering** </br> [Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992]((https://dl.acm.org/doi/abs/10.1145/138859.138867))
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - **Matrix Factorization** </br> Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009
+  - **Matrix Factorization** </br> [Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - **BPR** </br> Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009
+  - **BPR** </br> [Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009](https://arxiv.org/abs/1205.2618)
 
 - **`2024.03.20.` User Free Model**
-  - **SLIM** </br> Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011
+  - **SLIM** </br> [Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
 
-  - **FISM** </br> Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013
+  - **FISM** </br> [Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
 
 - **`2024.04.03.` NCF**
-  - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py) </br> He et al., "Neural Collaborative Filtering", WWW, 2017
+  - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py) </br> [He et al., "Neural Collaborative Filtering", WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
   - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
