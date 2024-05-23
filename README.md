@@ -34,22 +34,22 @@
   - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py) </br> [He et al., "Neural Collaborative Filtering", WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
 
 - **`2024.04.17.` AutoEncoder based Latent Factor Model**
-  - **AutoRec** </br> Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015
+  - **AutoRec** </br> [Sedhain et al., "AutoRec: Autoencoders Meet Collaborative Filtering", WWW, 2015](https://dl.acm.org/doi/abs/10.1145/2740908.2742726?casa_token=h6-W8fBHMuwAAAAA:hcZXeeqXUng_hrZJ9GaPt3dfJ4lXKK_THtypbucIf-XV18hRNfMxj2CkZKTOShkdwCCcrJ5WEGho-mo)
 
-  - [**Deep AutoRec**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/DeepAutoRec.py) </br> Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, arXiv, 2017
+  - [**Deep AutoRec**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/DeepAutoRec.py) </br> [Kuchaiev and Ginsburg, “Training Deep AutoEncoders for Collaborative Filtering”, 2017](https://arxiv.org/abs/1708.01715)
 
 - **`2024.05.01.` FM Series**
-  - [**Factorization Machine**]() </br> Rendle, "Factorization Machines", ICDM, 2010
+  - [**Factorization Machine**]() </br> [Rendle, "Factorization Machines", ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
 
-  - **Field-aware Factorization Machine** </br> Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016
+  - **Field-aware Factorization Machine** </br> [Juan et al., "Field-aware Factorization Machines for CTR Prediction", RecSys, 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959134?casa_token=LhyqvBbTAH4AAAAA:j1IOKYkeCTiByjmyaTueiRLCZkmi5U0SWqEVOyBbOdZOj9xKlu7X8AeBWPsum8IwcP6hUdTHqvJgfcM)
 
-  - [**Neural Factorization Machine**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py) </br> He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017
+  - [**Neural Factorization Machine**](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py) </br> [He and Chua, "Neural Factorization Machines for Sparse Predictive Analytics", SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
 
-  - **Attentional Factorization Machine** </br> Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017
+  - **Attentional Factorization Machine** </br> [Xiao et al., "Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", IJCAI, 2017](https://arxiv.org/abs/1708.04617)
 
-  - **Deep Factorization Machine** </br> Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017
+  - **Deep Factorization Machine** </br> [Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017](https://arxiv.org/abs/1703.04247)
 
-  - **Wide & Deep Learning** </br> Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016
+  - **Wide & Deep Learning** </br> [Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016](https://dl.acm.org/doi/abs/10.1145/2988450.2988454)
 
 </br>
 
