@@ -56,6 +56,7 @@
 ### Temporal-based RecSys
 
 - **`2024.05.22.` Temporal Latent Factor Model**
+
   - **TimeSVD++** </br> [Koren, Collaborative Filtering with Temporal Dynamic, KDD, 2009]()
 
 </br>
