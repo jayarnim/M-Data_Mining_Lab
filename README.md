@@ -106,6 +106,16 @@
 
   - **GANMF** </br> [Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022](https://dl.acm.org/doi/abs/10.1145/3477314.3507099)
 
+
+- **`2024.00.00.` Temporal Generative Model**
+  - **CVAE** </br> [Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016](https://dl.acm.org/doi/abs/10.1145/3097983.3098077?casa_token=qPy2AF_QG_YAAAAA:SCzKYcl6Lya0mvWJvgcF2SWYqG6_KBdIu_njM6q7fvMEbdKaZkUfM_gkQv3RNE3Jyc2OMrxKjfsDaiQ)
+
+  - **TA-GAN** </br> [Zhao et al., Temporal Attentive GANs for Check-in Time Prediction, IEEE, 2018]()
+
+- **`2024.00.00.` Sequential Generative Model**
+
+  - **RECGAN** </br> [Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3240323.3240383?casa_token=M4Ono7-ILt4AAAAA:GwzcPkxVp70ukHFaDBib4JyvL2JB1InY7ZKgQlVYLM9TjRtX_hreIFDHXG1lqUYBJtvM1jQtb2v1Tk4)
+
 </br>
 
 ## Reference
