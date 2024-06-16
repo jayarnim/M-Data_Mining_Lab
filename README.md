@@ -92,29 +92,10 @@
 ### Generative Model based RecSys
 
 - **`2024.08.21.` VAE based Latent Factor Model**
-  - **CVAE** </br> [Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016](https://dl.acm.org/doi/abs/10.1145/3097983.3098077?casa_token=qPy2AF_QG_YAAAAA:SCzKYcl6Lya0mvWJvgcF2SWYqG6_KBdIu_njM6q7fvMEbdKaZkUfM_gkQv3RNE3Jyc2OMrxKjfsDaiQ)
-
   - **Mult-VAE** </br> [Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
 
-- **`2024.09.25.` GAN based Collaborative Filtering**
+- **`2024.08.28.` GAN based Collaborative Filtering**
   - **IRGAN** </br> [Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080786?casa_token=l3DUV8WZZPUAAAAA:gh1OnSEylDd-KiNnTyq2jTgCcIAutcHOYKgFk9rXXmzdy8t8lJjfYi0XJDVzEVIsENZs8wlTCZeN_Wc)
-
-  - **RECGAN** </br> [Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3240323.3240383?casa_token=M4Ono7-ILt4AAAAA:GwzcPkxVp70ukHFaDBib4JyvL2JB1InY7ZKgQlVYLM9TjRtX_hreIFDHXG1lqUYBJtvM1jQtb2v1Tk4)
-
-- **`2024.10.16.` GAN based Latent Factor Model**
-  - **APR** </br> [He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018](https://dl.acm.org/doi/abs/10.1145/3209978.3209981?casa_token=GMOcHqxOCNcAAAAA:29c4pB23wWi4DxYW4aarhgUcVQOV1EJr-8oihxzAy_nRmogPqB1XJkNOXYeriWSH6C9Wa1gJMaURcsU)
-
-  - **GANMF** </br> [Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022](https://dl.acm.org/doi/abs/10.1145/3477314.3507099)
-
-
-- **`2024.00.00.` Temporal Generative Model**
-  - **CVAE** </br> [Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016](https://dl.acm.org/doi/abs/10.1145/3097983.3098077?casa_token=qPy2AF_QG_YAAAAA:SCzKYcl6Lya0mvWJvgcF2SWYqG6_KBdIu_njM6q7fvMEbdKaZkUfM_gkQv3RNE3Jyc2OMrxKjfsDaiQ)
-
-  - **TA-GAN** </br> [Zhao et al., Temporal Attentive GANs for Check-in Time Prediction, IEEE, 2018]()
-
-- **`2024.00.00.` Sequential Generative Model**
-
-  - **RECGAN** </br> [Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3240323.3240383?casa_token=M4Ono7-ILt4AAAAA:GwzcPkxVp70ukHFaDBib4JyvL2JB1InY7ZKgQlVYLM9TjRtX_hreIFDHXG1lqUYBJtvM1jQtb2v1Tk4)
 
 </br>
 
