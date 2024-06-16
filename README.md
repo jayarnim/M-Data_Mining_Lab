@@ -61,7 +61,7 @@
 
 </br>
 
-### Temporal-based RecSys
+### Temporal based RecSys
 
 - **`2024.05.22.` Temporal Latent Factor Model**
 
