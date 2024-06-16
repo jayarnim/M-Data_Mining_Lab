@@ -32,7 +32,7 @@
 
 </br>
 
-### Collaborative Filtering based RecSys Leveraging Deep Learning Techs
+### Latent Factor Model leveraging Deep Learning Techs
 
 - **`2024.04.03.` NCF**
   - [**Neural Collaborative Filtering**](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py) </br> [He et al., "Neural Collaborative Filtering", WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
@@ -44,7 +44,7 @@
 
 </br>
 
-### Hybrid RecSys
+### Hybrid Latent Factor Model
 
 - **`2024.05.01.` FM Series**
   - [**Factorization Machine**]() </br> [Rendle, "Factorization Machines", ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
