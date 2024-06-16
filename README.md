@@ -55,37 +55,43 @@
 
 ### Sequence based RecSys
 
-- **`2024.05.22.` RNN based RecSys**
+- **`2024.05.22.` Temporal Latent Factor Model**
+  - **TimeSVD++** </br> [Koren, Collaborative Filtering with Temporal Dynamic, KDD, 2009]()
+
+- **`2024.06.05.` Sequential Factorization Machine**
+  - **FPMC** </br> [Rendle et al., Factorizing personalized Markov chains for next-basket recommendation, WWW, 2010]()
+
+- **`2024.06.19.` RNN based RecSys**
   - **GRU4REC** </br> [Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016](https://arxiv.org/abs/1511.06939)
 
-- **`2024.06.05.` Self Attention Mechanism based RecSys**
+- **`2024.07.03.` Self Attention Mechanism based RecSys**
   - **SASREC** </br> [Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
 
-- **`2024.06.19.` BERT based RecSys**
+- **`2024.07.10.` BERT based RecSys**
   - **BERT4REC** </br> [Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
 
 </br>
 
 ### Graph based RecSys
 
-- **`2024.07.03.` PageRank based RecSys**
+- **`2024.07.17.` PageRank based RecSys**
 
-- **`2024.07.17.` DeepWalk based RecSys**
+- **`2024.07.24.` DeepWalk based RecSys**
 
 - **`2024.07.31.` GraphSAGE based RecSys**
   - **PinSAGE** </br> [Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
 
-- **`2024.08.14.` Knowledge Graph based RecSys**
+- **`2024.08.07.` Knowledge Graph based RecSys**
   - **RippleNet** </br> [Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3269206.3271739?casa_token=R1-vKJgCzrsAAAAA:x-U83HRTCb83izvU4lkdL29VKSeUgBBgFOpgWmjwpsa6PGdjVig-jaoUI6YdzKY6LihmfGshjhcp2Ks)
 
-- **`2024.08.28.` Knowledge Graph based RecSys leveraging GAT**
+- **`2024.08.14.` Knowledge Graph based RecSys leveraging GAT**
   - **KGAT** </br> [Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019](https://dl.acm.org/doi/abs/10.1145/3292500.3330989?casa_token=H-IaOAQVwHwAAAAA:2299fELWgPC7Y7f14vmWKDt0ZhrWV3I01NYuM6s1CoOyEwrltgYDzs1jP6GK_zU6v5qiwXHByDAqmIQ)
 
 </br>
 
 ### Generative Model based RecSys
 
-- **`2024.09.11.` VAE based Latent Factor Model**
+- **`2024.08.21.` VAE based Latent Factor Model**
   - **CVAE** </br> [Wu et al., "Collaborative Variational Autoencoder for Recommender Systems", KDD, 2016](https://dl.acm.org/doi/abs/10.1145/3097983.3098077?casa_token=qPy2AF_QG_YAAAAA:SCzKYcl6Lya0mvWJvgcF2SWYqG6_KBdIu_njM6q7fvMEbdKaZkUfM_gkQv3RNE3Jyc2OMrxKjfsDaiQ)
 
   - **Mult-VAE** </br> [Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
@@ -96,9 +102,9 @@
   - **RECGAN** </br> [Yao et al., "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems", CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3240323.3240383?casa_token=M4Ono7-ILt4AAAAA:GwzcPkxVp70ukHFaDBib4JyvL2JB1InY7ZKgQlVYLM9TjRtX_hreIFDHXG1lqUYBJtvM1jQtb2v1Tk4)
 
 - **`2024.10.16.` GAN based Latent Factor Model**
-  - **GANMF** </br> [Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022](https://dl.acm.org/doi/abs/10.1145/3477314.3507099)
-
   - **APR** </br> [He et al., "Adversarial Personalized Ranking for Recommendation", SIGIR, 2018](https://dl.acm.org/doi/abs/10.1145/3209978.3209981?casa_token=GMOcHqxOCNcAAAAA:29c4pB23wWi4DxYW4aarhgUcVQOV1EJr-8oihxzAy_nRmogPqB1XJkNOXYeriWSH6C9Wa1gJMaURcsU)
+
+  - **GANMF** </br> [Chae et al., "GAN-based Matrix Factorization for Recommender Systems", WISE, 2022](https://dl.acm.org/doi/abs/10.1145/3477314.3507099)
 
 </br>
 
