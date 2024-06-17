@@ -65,14 +65,14 @@
 
 - **`2024.05.22.` Temporal Latent Factor Model**
 
-  - **TimeSVD++** </br> [Koren, Collaborative Filtering with Temporal Dynamic, KDD, 2009]()
+  - **TimeSVD++** </br> [Koren, "Collaborative Filtering with Temporal Dynamic", KDD, 2009]()
 
 </br>
 
 ### Sequence based RecSys
 
 - **`2024.06.05.` Sequential Factorization Machine**
-  - **FPMC** </br> [Rendle et al., Factorizing personalized Markov chains for next-basket recommendation, WWW, 2010]()
+  - **FPMC** </br> [Rendle et al., "Factorizing personalized Markov chains for next-basket recommendation", WWW, 2010]()
 
 - **`2024.06.19.` RNN based RecSys**
   - **GRU4REC** </br> [Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016](https://arxiv.org/abs/1511.06939)
