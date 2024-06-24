@@ -93,7 +93,7 @@
 - **`2024.07.24.` DeepWalk based RecSys**
 
 - **`2024.07.31.` GraphSAGE based RecSys**
-  - **PinSAGE** </br> [Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
+  - **PinSAGE** </br> [Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
 
   - **NGCF** </br> [Wang et al., "Neural Graph Collaborative Filtering", SIGIR, 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331267?casa_token=8JTOV4RxYlsAAAAA:bkwRnHjoNWGcx5bGw97-cRpFT4iKhBSLnEyI3xK0eXEsb2-bLIwANoE1txFvyRCsgpABkhbCzrtjRA)
 
