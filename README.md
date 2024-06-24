@@ -102,7 +102,7 @@
 
 </br>
 
-### Generative Model based RecSys
+### RecSys leveraging Generative Model
 
 - **`2024.08.21.` VAE based Latent Factor Model**
   - **Mult-VAE** </br> [Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
