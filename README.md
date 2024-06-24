@@ -100,17 +100,16 @@
 - **`2024.08.07.` Knowledge Graph based RecSys**
   - **RippleNet** </br> [Wang et al., “RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3269206.3271739?casa_token=R1-vKJgCzrsAAAAA:x-U83HRTCb83izvU4lkdL29VKSeUgBBgFOpgWmjwpsa6PGdjVig-jaoUI6YdzKY6LihmfGshjhcp2Ks)
 
-- **`2024.08.14.` Knowledge Graph based RecSys leveraging GAT**
   - **KGAT** </br> [Wang et al., "KGAT: Knowledge Graph Attention Network for Recommendation", KDD, 2019](https://dl.acm.org/doi/abs/10.1145/3292500.3330989?casa_token=H-IaOAQVwHwAAAAA:2299fELWgPC7Y7f14vmWKDt0ZhrWV3I01NYuM6s1CoOyEwrltgYDzs1jP6GK_zU6v5qiwXHByDAqmIQ)
 
 </br>
 
 ### Generative Model based RecSys
 
-- **`2024.08.21.` VAE based Latent Factor Model**
+- **`2024.08.14.` VAE based Latent Factor Model**
   - **Mult-VAE** </br> [Liang et al., "Variational Autoencoders for Collaborative Filtering", WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
 
-- **`2024.08.28.` GAN based Collaborative Filtering**
+- **`2024.08.21.` GAN based Collaborative Filtering**
   - **IRGAN** </br> [Wang et al., "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080786?casa_token=l3DUV8WZZPUAAAAA:gh1OnSEylDd-KiNnTyq2jTgCcIAutcHOYKgFk9rXXmzdy8t8lJjfYi0XJDVzEVIsENZs8wlTCZeN_Wc)
 
 </br>
