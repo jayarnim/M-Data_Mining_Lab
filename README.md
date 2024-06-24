@@ -57,8 +57,6 @@
 
   - **Deep Factorization Machine** </br> [Guo et al., "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", IJCAI, 2017](https://arxiv.org/abs/1703.04247)
 
-  - **Wide & Deep Learning** </br> [Cheng et al., "Wide & Deep Learning for Recommender Systems", DLRS, 2016](https://dl.acm.org/doi/abs/10.1145/2988450.2988454)
-
 </br>
 
 ### Temporal based RecSys
