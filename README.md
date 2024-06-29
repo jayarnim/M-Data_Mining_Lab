@@ -63,7 +63,7 @@
 
 - **`2024.05.22.` Temporal Latent Factor Model**
 
-  - **TimeSVD++** </br> [Koren, "Collaborative Filtering with Temporal Dynamic", KDD, 2009]()
+  - **TimeSVD++** </br> [Koren, "Collaborative Filtering with Temporal Dynamic", KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
 
 </br>
 
