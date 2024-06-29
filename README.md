@@ -69,7 +69,7 @@
 
 ### Sequencial RecSys
 
-- **`2024.06.05.` Sequential Factorization Machine**
+- **`2024.06.05.` Markov Chains based RecSys**
   - **FPMC** </br> [Rendle et al., "Factorizing personalized Markov chains for next-basket recommendation", WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
 
 - **`2024.07.03.` RNN based RecSys**
