@@ -59,26 +59,22 @@
 
 </br>
 
-### Temporal RecSys
+### RecSys with Time Information
 
 - **`2024.05.22.` Temporal Latent Factor Model**
 
   - **TimeSVD++** </br> [Koren, "Collaborative Filtering with Temporal Dynamic", KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
 
-</br>
-
-### Sequencial RecSys
-
-- **`2024.06.05.` Markov Chains based RecSys**
+- **`2024.06.05.` Markov Chains based Sequencial RecSys**
   - **FPMC** </br> [Rendle et al., "Factorizing personalized Markov chains for next-basket recommendation", WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
 
-- **`2024.07.19.` RNN based RecSys**
+- **`2024.06.19.` RNN based Sequencial RecSys**
   - **GRU4REC** </br> [Hidasi et al., "Session-based Recommendations with Recurrent Neural Networks", ICLR, 2016](https://arxiv.org/abs/1511.06939)
 
 - **`2024.07.03.` Self Attention Mechanism based RecSys**
   - **SASREC** </br> [Kang and McAuley, "Self-Attentive Sequential Recommendation", ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
 
-- **`2024.07.10.` BERT based RecSys**
+- **`2024.07.10.` BERT based Sequencial RecSys**
   - **BERT4REC** </br> [Sun et al., "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
 
 </br>
