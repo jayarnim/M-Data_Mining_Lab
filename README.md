@@ -95,6 +95,7 @@
   - **Pixie** </br> [Eksombatchai et al., "Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
 - **`2024.07.31.` DeepWalk based RecSys**
+  - **PROD2VEC** </br> [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018]()
 
 - **`2024.08.07.` GraphSAGE based RecSys**
   - **PinSAGE** </br> [Ying et al., "Graph Convolutional Neural Networks for Web-Scale Recommender Systems", KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
