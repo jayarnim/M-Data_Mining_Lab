@@ -59,11 +59,15 @@
 
 </br>
 
-### RecSys with Time Information
+### Temporal RecSys
 
 - **`2024.05.22.` Temporal Latent Factor Model**
 
   - **TimeSVD++** </br> ["Collaborative Filtering with Temporal Dynamic", Koren, KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
+
+</br>
+
+### Sequencial RecSys
 
 - **`2024.06.05.` Markov Chains based Sequencial Latent Factor Model**
   - **FPMC** </br> ["Factorizing personalized Markov chains for next-basket recommendation", Rendle et al., WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
