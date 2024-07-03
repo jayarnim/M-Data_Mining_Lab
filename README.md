@@ -17,18 +17,18 @@
 ### Collaborative Filtering based RecSys
 
 - **`2024.02.01.` Memory based Collaborative Filtering**
-  - **Memory based Collaborative Filtering** </br> [Goldberg et al., "Using Collaborative Filtering to Weave an Information Tapestry", ACM, 1992](https://dl.acm.org/doi/abs/10.1145/138859.138867)
+  - **Memory based Collaborative Filtering** </br> ["Using Collaborative Filtering to Weave an Information Tapestry", Goldberg et al., ACM, 1992](https://dl.acm.org/doi/abs/10.1145/138859.138867)
 
 - **`2024.02.22.` Classical Latent Factor Model**
-  - **Matrix Factorization** </br> [Koren et al., "Matrix Factorization Techniques for Recommender Systems", IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
+  - **Matrix Factorization** </br> ["Matrix Factorization Techniques for Recommender Systems", Koren et al., IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - **BPR** </br> [Rendle et al., "BPR: Bayesian Personalized Ranking from Implicit Feedback", UAI, 2009](https://arxiv.org/abs/1205.2618)
+  - **BPR** </br> ["BPR: Bayesian Personalized Ranking from Implicit Feedback", Rendle et al., UAI, 2009](https://arxiv.org/abs/1205.2618)
 
 - **`2024.03.20.` User Free Model**
-  - **SLIM** </br> [Ning and Karypis, "SLIM: Sparse Linear Methods for Top-N Recommender Systems", ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
+  - **SLIM** </br> ["SLIM: Sparse Linear Methods for Top-N Recommender Systems", Ning and Karypis, ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
 
-  - **FISM** </br> [Kabbur et al., "FISM: Factored Item Similarity Models for Top-N Recommender Systems", KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
+  - **FISM** </br> ["FISM: Factored Item Similarity Models for Top-N Recommender Systems", Kabbur et al., KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
 
 </br>
 
