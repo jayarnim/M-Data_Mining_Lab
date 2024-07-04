@@ -84,11 +84,11 @@
     - **Paper** : ["Neural Factorization Machines for Sparse Predictive Analytics", He and Chua, SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
     - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
-- **DeepFM** [`REVIEW`]() [`CODE`]()
+- **DeepFM** [`REVIEW`]()
     - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
     - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
 
-- **AFM** [`REVIEW`]() [`CODE`]()
+- **AFM** [`REVIEW`]()
     - **Paper** : ["Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", Xiao et al., IJCAI, 2017](https://arxiv.org/abs/1708.04617)
     - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
