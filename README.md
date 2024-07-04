@@ -162,7 +162,6 @@
 - **Pixie** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
-    - **DataSet** : 
 
 #### `2024.07.31.` DeepWalk based RecSys
 
