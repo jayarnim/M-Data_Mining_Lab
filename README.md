@@ -23,7 +23,11 @@
   - **Matrix Factorization** </br> ["Matrix Factorization Techniques for Recommender Systems", Koren et al., IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
 
 - **`2024.03.06.` Latent Factor Model for Ranking Prediction**
-  - **BPR** </br> ["BPR: Bayesian Personalized Ranking from Implicit Feedback", Rendle et al., UAI, 2009](https://arxiv.org/abs/1205.2618)
+
+  - **BPR** [`REVIEW`]() [`CODE`]()
+
+    - **Paper** : ["BPR: Bayesian Personalized Ranking from Implicit Feedback", Rendle et al., UAI, 2009](https://arxiv.org/abs/1205.2618)
+    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
 
 - **`2024.03.20.` User Free Model**
   - **SLIM** </br> ["SLIM: Sparse Linear Methods for Top-N Recommender Systems", Ning and Karypis, ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
