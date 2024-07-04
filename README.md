@@ -99,7 +99,7 @@
   - [**Pixie**]() </br> ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
 - **`2024.07.31.` DeepWalk based RecSys**
-  - **EGES** </br> [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
+  - [**EGES**]() </br> [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
 
 - **`2024.08.07.` GraphSAGE based RecSys**
   - [**PinSAGE**]() </br> ["Graph Convolutional Neural Networks for Web-Scale Recommender Systems", Ying et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
