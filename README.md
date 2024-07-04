@@ -86,7 +86,7 @@
 
 - **DeepFM** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
-    - **DataSet** : 
+    - **DataSet** : [`Kaggle Competition; Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data) [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 - **AFM** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", Xiao et al., IJCAI, 2017](https://arxiv.org/abs/1708.04617)
