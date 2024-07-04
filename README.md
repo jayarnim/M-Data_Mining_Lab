@@ -54,17 +54,17 @@
 - **NCF** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
 
     - **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
-    - **DataSet** : 
+    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 #### `2024.04.17.` AutoEncoder based Latent Factor Model
 
 - **AutoRec** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["AutoRec: Autoencoders Meet Collaborative Filtering", Sedhain et al., WWW, 2015](https://dl.acm.org/doi/abs/10.1145/2740908.2742726?casa_token=h6-W8fBHMuwAAAAA:hcZXeeqXUng_hrZJ9GaPt3dfJ4lXKK_THtypbucIf-XV18hRNfMxj2CkZKTOShkdwCCcrJ5WEGho-mo)
-    - **DataSet** : 
+    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 - **Deep AutoRec** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/DeepAutoRec.py)
     - **Paper** : [“Training Deep AutoEncoders for Collaborative Filtering”, Kuchaiev and Ginsburg, 2017](https://arxiv.org/abs/1708.01715)
-    - **DataSet** : 
+    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
 </br>
 
@@ -144,7 +144,7 @@
 - **Mult-VAE** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
-    - **DataSet** : 
+    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
 #### `2024.07.17.` GAN based Collaborative Filtering
 
