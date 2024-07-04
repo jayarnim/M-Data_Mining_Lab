@@ -151,7 +151,7 @@
 - **IRGAN** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", Wang et al., SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080786?casa_token=l3DUV8WZZPUAAAAA:gh1OnSEylDd-KiNnTyq2jTgCcIAutcHOYKgFk9rXXmzdy8t8lJjfYi0XJDVzEVIsENZs8wlTCZeN_Wc)
-    - **DataSet** : 
+    - **DataSet** : [`LETOR 4.0`](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/) [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`InsuranceQA`](https://github.com/shuzi/insuranceQA)
 
 </br>
 
