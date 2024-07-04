@@ -126,14 +126,14 @@
 - **SASREC** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["Self-Attentive Sequential Recommendation", Kang and McAuley, ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
-    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon(Beauty)`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`Amazon(VideoGame)`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
+    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`Amazon VideoGame`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 #### `2024.07.03.` BERT based Sequencial RecSys
 
 - **BERT4REC** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
-    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon(Beauty)`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
+    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 </br>
 
@@ -169,7 +169,7 @@
 - **EGES** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
-    - **DataSet** : 
+    - **DataSet** : [`Amazon Electronics`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
 #### `2024.08.07.` GraphSAGE based RecSys
 
