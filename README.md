@@ -58,7 +58,7 @@
 
 #### `2024.04.17.` AutoEncoder based Latent Factor Model
 
-- **AutoRec** [`REVIEW`]() [`CODE`]()
+- **AutoRec** [`REVIEW`]()
     - **Paper** : ["AutoRec: Autoencoders Meet Collaborative Filtering", Sedhain et al., WWW, 2015](https://dl.acm.org/doi/abs/10.1145/2740908.2742726?casa_token=h6-W8fBHMuwAAAAA:hcZXeeqXUng_hrZJ9GaPt3dfJ4lXKK_THtypbucIf-XV18hRNfMxj2CkZKTOShkdwCCcrJ5WEGho-mo)
     - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
