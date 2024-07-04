@@ -78,7 +78,7 @@
 
 - **FFM** [`REVIEW`]()
     - **Paper** : ["Field-aware Factorization Machines for CTR Prediction", Juan et al., RecSys, 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959134?casa_token=LhyqvBbTAH4AAAAA:j1IOKYkeCTiByjmyaTueiRLCZkmi5U0SWqEVOyBbOdZOj9xKlu7X8AeBWPsum8IwcP6hUdTHqvJgfcM)
-    - **DataSet** : [`Kaggle Competition; Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data) [`Kaggle Competition; Click-Through Rate Prediction`](https://www.kaggle.com/c/avazu-ctr-prediction/data)
+    - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data) [`Click-Through Rate Prediction`](https://www.kaggle.com/c/avazu-ctr-prediction/data)
 
 - **NFM** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py)
     - **Paper** : ["Neural Factorization Machines for Sparse Predictive Analytics", He and Chua, SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
@@ -86,7 +86,7 @@
 
 - **DeepFM** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
-    - **DataSet** : [`Kaggle Competition; Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
+    - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
 
 - **AFM** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", Xiao et al., IJCAI, 2017](https://arxiv.org/abs/1708.04617)
