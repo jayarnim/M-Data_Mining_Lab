@@ -49,9 +49,9 @@
 
 ### Latent Factor Model leveraging Deep Learning Techs
 
-#### `2024.04.03.` NCF
+#### `2024.04.03.` Neural Collaborative Filtering
 
-- **Neural Collaborative Filtering** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
+- **NCF** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
 
     - **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
     - **DataSet** : 
