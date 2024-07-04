@@ -82,7 +82,7 @@
 
 - **NFM** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py)
     - **Paper** : ["Neural Factorization Machines for Sparse Predictive Analytics", He and Chua, SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
-    - **DataSet** : 
+    - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 - **DeepFM** [`REVIEW`]() [`CODE`]()
     - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
