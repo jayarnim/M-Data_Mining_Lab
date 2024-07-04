@@ -133,7 +133,7 @@
 - **BERT4REC** [`REVIEW`]() [`CODE`]()
 
     - **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
-    - **DataSet** : 
+    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon(Beauty)`](https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 </br>
 
