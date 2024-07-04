@@ -101,7 +101,7 @@
     - **TimeSVD++** [`REVIEW`]()
 
         - **Paper** : ["Collaborative Filtering with Temporal Dynamic", Koren, KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
-        - **DataSet** : 
+        - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
 </br>
 
@@ -112,21 +112,21 @@
     - **FPMC** [`REVIEW`]()
 
         - **Paper** : ["Factorizing personalized Markov chains for next-basket recommendation", Rendle et al., WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
-        - **DataSet** : 
+        - **DataSet** : [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
 
 - **`2024.06.19.` RNN based Sequencial RecSys**
 
     - **GRU4REC** [`REVIEW`]() [`CODE`]()
 
         - **Paper** : ["Session-based Recommendations with Recurrent Neural Networks", Hidasi et al., ICLR, 2016](https://arxiv.org/abs/1511.06939)
-        - **DataSet** : 
+        - **DataSet** : [`RecSys Challenge 2015`](https://www.kaggle.com/code/danofer/2015-recsys-challenge-starter)
 
 - **`2024.06.26.` Self Attention Mechanism based RecSys**
 
     - **SASREC** [`REVIEW`]() [`CODE`]()
 
         - **Paper** : ["Self-Attentive Sequential Recommendation", Kang and McAuley, ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
-        - **DataSet** : 
+        - **DataSet** : [`Steam Store Reviews`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Ratings - Beauty`](https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings) [`Amazon Ratings - Game`](https://www.kaggle.com/datasets/drshoaib/amazon-videogames-reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 - **`2024.07.03.` BERT based Sequencial RecSys**
 
