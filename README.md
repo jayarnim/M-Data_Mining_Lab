@@ -76,10 +76,6 @@
     - **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
     - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
 
-- **FFM** [`REVIEW`]()
-    - **Paper** : ["Field-aware Factorization Machines for CTR Prediction", Juan et al., RecSys, 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959134?casa_token=LhyqvBbTAH4AAAAA:j1IOKYkeCTiByjmyaTueiRLCZkmi5U0SWqEVOyBbOdZOj9xKlu7X8AeBWPsum8IwcP6hUdTHqvJgfcM)
-    - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data) [`Click-Through Rate Prediction`](https://www.kaggle.com/c/avazu-ctr-prediction/data)
-
 - **NFM** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py)
     - **Paper** : ["Neural Factorization Machines for Sparse Predictive Analytics", He and Chua, SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
     - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
