@@ -14,140 +14,112 @@
 
 </br>
 
-### Collaborative Filtering based RecSys
+### Linear Latent Factor Models
 
-#### `2024.02.01.` Memory based Collaborative Filtering
+#### `2024.01.25.` Matrix Factorization
 
-- **Memory based Collaborative Filtering** [`REVIEW`]()
+- **Paper** : ["Matrix Factorization Techniques for Recommender Systems", Koren et al., IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
 
-    - **Paper** : ["Using Collaborative Filtering to Weave an Information Tapestry", Goldberg et al., ACM, 1992](https://dl.acm.org/doi/abs/10.1145/138859.138867)
+#### `2024.02.01.` BPR
 
-#### `2024.02.22.` Classical Latent Factor Model
+- **Paper** : ["BPR: Bayesian Personalized Ranking from Implicit Feedback", Rendle et al., UAI, 2009](https://arxiv.org/abs/1205.2618)
+- **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
 
-- **Matrix Factorization** [`REVIEW`]()
+#### `2024.02.08.` TimeSVD++
 
-    - **Paper** : ["Matrix Factorization Techniques for Recommender Systems", Koren et al., IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
+- **Paper** : ["Collaborative Filtering with Temporal Dynamic", Koren, KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
+- **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
-#### `2024.03.06.` Latent Factor Model for Ranking Prediction
+#### `2024.02.15.` FPMC
 
-- **BPR** [`REVIEW`]()
+- **Paper** : ["Factorizing personalized Markov chains for next-basket recommendation", Rendle et al., WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
+- **DataSet** : [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
 
-    - **Paper** : ["BPR: Bayesian Personalized Ranking from Implicit Feedback", Rendle et al., UAI, 2009](https://arxiv.org/abs/1205.2618)
-    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
+#### `2024.02.22.` SLIM
 
-#### `2024.03.20.` User Free Model
+- **Paper** : ["SLIM: Sparse Linear Methods for Top-N Recommender Systems", Ning and Karypis, ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
+- **DataSet** : [`Book Crossing`](https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset) [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Yahoo! Music`](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
 
-- **SLIM** [`REVIEW`]()
-    - **Paper** : ["SLIM: Sparse Linear Methods for Top-N Recommender Systems", Ning and Karypis, ICDM, 2011](https://ieeexplore.ieee.org/abstract/document/6137254?casa_token=hasquFQkcNQAAAAA:ahz0llpC6_q77EiwLrjlyofGfms6lQOCmuBRrnGl8MOjkbLsWNWRHYJJN9yYBdXkaLKKTvNpjLiC)
-    - **DataSet** : [`Book Crossing`](https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset) [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Yahoo! Music`](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
+#### `2024.02.29.` FISM
 
-- **FISM** [`REVIEW`]()
-    - **Paper** : ["FISM: Factored Item Similarity Models for Top-N Recommender Systems", Kabbur et al., KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
-    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Yahoo! Music`](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
+- **Paper** : ["FISM: Factored Item Similarity Models for Top-N Recommender Systems", Kabbur et al., KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
+- **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Yahoo! Music`](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
 
 </br>
 
 ### Latent Factor Model leveraging Deep Learning Techs
 
-#### `2024.04.03.` Neural Collaborative Filtering
+#### `2024.03.06.` Neural Collaborative Filtering
 
-- **NCF** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/MD-Data_Mining_Lab/blob/main/model/NCF.py)
+- **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
+- **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
-    - **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
-    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
+#### `2024.03.20.` CDAE
 
-#### `2024.04.17.` AutoEncoder based Latent Factor Model
-
-- **AutoRec** [`REVIEW`]()
-    - **Paper** : ["AutoRec: Autoencoders Meet Collaborative Filtering", Sedhain et al., WWW, 2015](https://dl.acm.org/doi/abs/10.1145/2740908.2742726?casa_token=h6-W8fBHMuwAAAAA:hcZXeeqXUng_hrZJ9GaPt3dfJ4lXKK_THtypbucIf-XV18hRNfMxj2CkZKTOShkdwCCcrJ5WEGho-mo)
-    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
-
-- **Deep AutoRec** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/DeepAutoRec.py)
-    - **Paper** : [“Training Deep AutoEncoders for Collaborative Filtering”, Kuchaiev and Ginsburg, 2017](https://arxiv.org/abs/1708.01715)
-    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+- **Paper** :
+- **DataSet** :
 
 </br>
 
-### Hybrid Latent Factor Model
+### Factorization Machine Series
 
-#### `2024.05.01.` Factorization Machine Series
+#### `2024.04.03.` Factorization Machines
 
-- **FM** [`REVIEW`]()
-    - **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
-    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
+- **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
+- **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
 
-- **NFM** [`REVIEW`]() [`CODE`](https://github.com/jayarnim/M-Data_Mining_Lab/blob/main/model/NeuralFactorizationMachine.py)
-    - **Paper** : ["Neural Factorization Machines for Sparse Predictive Analytics", He and Chua, SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080777?casa_token=GwAdLrQPwy4AAAAA:ie1lvyHs54HbZmQS4pns-P585Knu3QIYRcNXUbPbfyQdNIO-E2HGXQCIwoza5np_wt-S4gs1lcQ_yw4)
-    - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
+#### `2024.05.01.` Wide & Deep Learning
 
-- **DeepFM** [`REVIEW`]()
-    - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
-    - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
+- **Paper** :
+- **DataSet** :
 
-- **AFM** [`REVIEW`]()
-    - **Paper** : ["Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks", Xiao et al., IJCAI, 2017](https://arxiv.org/abs/1708.04617)
-    - **DataSet** : [`Frappe`](https://www.baltrunas.info/context-aware) [`MovieLens`](https://grouplens.org/datasets/movielens/)
+#### `2024.05.22.` DeepFM
 
-</br>
-
-### Temporal RecSys
-
-#### `2024.05.22.` Temporal Latent Factor Model
-
-- **TimeSVD++** [`REVIEW`]()
-
-    - **Paper** : ["Collaborative Filtering with Temporal Dynamic", Koren, KDD, 2009](https://dl.acm.org/doi/abs/10.1145/1557019.1557072?casa_token=rimTEX65IIsAAAAA:jfa7Vyrl6bt4D3OsxxBP2ja1FfR6DbK7EjnoTTgxbddG16QaJzh0QTSTppGwWkaJVG0nvRMba_jmB3w)
-    - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+- **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
+- **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
 
 </br>
 
 ### Sequencial RecSys
 
-#### `2024.06.05.` Markov Chains based Sequencial Latent Factor Model
+#### `2024.06.05.` GRU4REC
 
-- **FPMC** [`REVIEW`]()
+- **Paper** : ["Session-based Recommendations with Recurrent Neural Networks", Hidasi et al., ICLR, 2016](https://arxiv.org/abs/1511.06939)
+- **DataSet** : [`RecSys Challenge 2015`](https://www.kaggle.com/code/danofer/2015-recsys-challenge-starter)
 
-    - **Paper** : ["Factorizing personalized Markov chains for next-basket recommendation", Rendle et al., WWW, 2010](https://dl.acm.org/doi/abs/10.1145/1772690.1772773?casa_token=Q3sHZL_spjgAAAAA:2Xm7ovGfhXZSkNb2ulgWO27DY0vMDKkoVrQS23pMKqouoJS1y_AKVeQlCMI_tCsuyggAGMY-IgYrXeU)
-    - **DataSet** : [`Rossman Store Sales`](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
+#### `2024.07.03.` SASREC
 
-#### `2024.06.19.` RNN based Sequencial RecSys
+- **Paper** : ["Self-Attentive Sequential Recommendation", Kang and McAuley, ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
+- **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`Amazon VideoGame`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
-- **GRU4REC** [`REVIEW`]() [`CODE`]()
+#### `2024.07.10.` BERT4REC
 
-    - **Paper** : ["Session-based Recommendations with Recurrent Neural Networks", Hidasi et al., ICLR, 2016](https://arxiv.org/abs/1511.06939)
-    - **DataSet** : [`RecSys Challenge 2015`](https://www.kaggle.com/code/danofer/2015-recsys-challenge-starter)
-
-#### `2024.06.26.` Self Attention Mechanism based RecSys
-
-- **SASREC** [`REVIEW`]() [`CODE`]()
-
-    - **Paper** : ["Self-Attentive Sequential Recommendation", Kang and McAuley, ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
-    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`Amazon VideoGame`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
-
-#### `2024.07.03.` BERT based Sequencial RecSys
-
-- **BERT4REC** [`REVIEW`]() [`CODE`]()
-
-    - **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
-    - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
+- **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
+- **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 </br>
 
-### RecSys leveraging Generative Model
+### RecSys leveraging Bayesian Modeling
 
-#### `2024.07.10.` VAE based Latent Factor Model
+#### `2024.07.10.` BPMF
 
-- **Mult-VAE** [`REVIEW`]() [`CODE`]()
+- **Paper** :
+- **DataSet** :
 
-    - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
-    - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
+#### `2024.07.17.` Mult-VAE
 
-#### `2024.07.17.` GAN based Collaborative Filtering
+- **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
+- **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
-- **IRGAN** [`REVIEW`]() [`CODE`]()
+#### `2024.07.24.` NVMF
 
-    - **Paper** : ["IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models", Wang et al., SIGIR, 2017](https://dl.acm.org/doi/abs/10.1145/3077136.3080786?casa_token=l3DUV8WZZPUAAAAA:gh1OnSEylDd-KiNnTyq2jTgCcIAutcHOYKgFk9rXXmzdy8t8lJjfYi0XJDVzEVIsENZs8wlTCZeN_Wc)
-    - **DataSet** : [`LETOR 4.0`](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/) [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`InsuranceQA`](https://github.com/shuzi/insuranceQA)
+- **Paper** :
+- **DataSet** :
+
+#### `2024.07.31.` BDNet
+
+- **Paper** :
+- **DataSet** :
 
 </br>
 
