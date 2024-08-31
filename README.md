@@ -101,22 +101,22 @@
 
 ### RecSys leveraging Bayesian Modeling
 
-#### `2024.07.10.` BPMF
+#### `2024.07.17.` BPMF
 
 - **Paper** :
 - **DataSet** :
 
-#### `2024.07.17.` Mult-VAE
+#### `2024.07.24.` Mult-VAE
 
 - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
 - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
-#### `2024.07.24.` NVMF
+#### `2024.07.31.` NVMF
 
 - **Paper** :
 - **DataSet** :
 
-#### `2024.07.31.` BDNet
+#### `2024.08.07.` BDNet
 
 - **Paper** :
 - **DataSet** :
