@@ -6,13 +6,13 @@
 
 </br>
 
-## RecSys
-
-### ProLogue
+## ProLogue
 
 - **`2024.01.18.` What? RecSys**
 
-### Linear Latent Factor Models
+</br>
+
+## Linear Latent Factor Models
 
 - **`2024.01.25.` Matrix Factorization**
   - **Paper** : ["Matrix Factorization Techniques for Recommender Systems", Koren et al., IEEE, 2009](https://ieeexplore.ieee.org/abstract/document/5197422?casa_token=MegLN5OlT4oAAAAA:gNQRE3BKlHAKav64qSELmwXR6WizC4ksr3XvAV1DmiLN2AFgy-PdZ9PB8gCIsgS2e1ISZNI2Oibs)
@@ -37,7 +37,9 @@
   - **Paper** : ["FISM: Factored Item Similarity Models for Top-N Recommender Systems", Kabbur et al., KDD, 2013](https://dl.acm.org/doi/abs/10.1145/2487575.2487589?casa_token=zDZvzz_byroAAAAA:1Dr1GXJ7yst1AM9GKAlEyDRP6_hzDEQQr5ML9cjR7u6bJOr4dOp4gA3RyLyI-tVdsewY6FL7Sixq4Vs)
   - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Yahoo! Music`](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
 
-### Latent Factor Model leveraging Deep Learning Techs
+</br>
+
+## Latent Factor Model leveraging Deep Learning Techs
 
 - **`2024.03.06.` NCF**
   - **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
@@ -47,7 +49,9 @@
   - **Paper** :
   - **DataSet** :
 
-### Factorization Machine Series
+</br>
+
+## Factorization Machine Series
 
 - **`2024.04.03.` Factorization Machines**
   - **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
@@ -61,7 +65,9 @@
   - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
   - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
 
-### Sequencial RecSys
+</br>
+
+## Sequencial RecSys
 
 - **`2024.05.22.` GRU4REC**
   - **Paper** : ["Session-based Recommendations with Recurrent Neural Networks", Hidasi et al., ICLR, 2016](https://arxiv.org/abs/1511.06939)
@@ -75,7 +81,9 @@
   - **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
   - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
-### RecSys leveraging Bayesian Modeling
+</br>
+
+## RecSys leveraging Bayesian Modeling
 
 - **`2024.07.03.` BPMF**
   - **Paper** :
@@ -93,7 +101,9 @@
   - **Paper** :
   - **DataSet** :
 
-### Graph based RecSys
+</br>
+
+## Graph based RecSys
 
 - **`2025.01.01.` Pixie**; PageRank based RecSys
   - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
