@@ -95,36 +95,22 @@
 
 ### Graph based RecSys
 
-#### `2024.11.06.` PageRank based RecSys
+- `2025.01.01.` Pixie; PageRank based RecSys
+  - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
-- **Pixie** [`REVIEW`]() [`CODE`]()
+- `2025.01.08.` EGES; DeepWalk based RecSys
+  - **Paper** : [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
+  - **DataSet** : [`Amazon Electronics`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
-    - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
-
-#### `2024.11.13.` DeepWalk based RecSys
-
-- **EGES** [`REVIEW`]() [`CODE`]()
-
-    - **Paper** : [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
-    - **DataSet** : [`Amazon Electronics`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
-
-#### `2024.11.20.` GraphSAGE based RecSys
-
-- **PinSAGE** [`REVIEW`]() [`CODE`]()
+- `2025.01.15.` PinSAGE; GraphSAGE based RecSys
     - **Paper** : ["Graph Convolutional Neural Networks for Web-Scale Recommender Systems", Ying et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
     - **DataSet** : 
 
-- **NGCF** [`REVIEW`]() [`CODE`]()
-    - **Paper** : ["Neural Graph Collaborative Filtering", Wang et al., SIGIR, 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331267?casa_token=8JTOV4RxYlsAAAAA:bkwRnHjoNWGcx5bGw97-cRpFT4iKhBSLnEyI3xK0eXEsb2-bLIwANoE1txFvyRCsgpABkhbCzrtjRA)
-    - **DataSet** : 
-
-#### `2024.11.27.` Knowledge Graph based RecSys
-
-- **RippleNet** [`REVIEW`]() [`CODE`]()
+- `2025.01.22.` RippleNet; Knowledge Graph based RecSys
     - **Paper** : [“RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, Wang et al., CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3269206.3271739?casa_token=R1-vKJgCzrsAAAAA:x-U83HRTCb83izvU4lkdL29VKSeUgBBgFOpgWmjwpsa6PGdjVig-jaoUI6YdzKY6LihmfGshjhcp2Ks)
     - **DataSet** : 
 
-- **KGAT** [`REVIEW`]() [`CODE`]()
+- `2025.01.29.` KGAT; Graph Attention based RecSys
     - **Paper** : ["KGAT: Knowledge Graph Attention Network for Recommendation", Wang et al., KDD, 2019](https://dl.acm.org/doi/abs/10.1145/3292500.3330989?casa_token=H-IaOAQVwHwAAAAA:2299fELWgPC7Y7f14vmWKDt0ZhrWV3I01NYuM6s1CoOyEwrltgYDzs1jP6GK_zU6v5qiwXHByDAqmIQ)
     - **DataSet** : 
 
