@@ -111,7 +111,7 @@
 - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
 - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
-#### `2024.07.17.` NVMF
+#### `2024.07.17.` VABMF
 
 - **Paper** :
 - **DataSet** :
