@@ -68,12 +68,12 @@
 - **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
 - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
 
-#### `2024.05.01.` Wide & Deep Learning
+#### `2024.04.17.` Wide & Deep Learning
 
 - **Paper** :
 - **DataSet** :
 
-#### `2024.05.22.` DeepFM
+#### `2024.05.01.` DeepFM
 
 - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
 - **DataSet** : [`Display Advertising Challenge`](https://www.kaggle.com/c/criteo-display-ad-challenge/data)
@@ -82,17 +82,17 @@
 
 ### Sequencial RecSys
 
-#### `2024.06.05.` GRU4REC
+#### `2024.05.22.` GRU4REC
 
 - **Paper** : ["Session-based Recommendations with Recurrent Neural Networks", Hidasi et al., ICLR, 2016](https://arxiv.org/abs/1511.06939)
 - **DataSet** : [`RecSys Challenge 2015`](https://www.kaggle.com/code/danofer/2015-recsys-challenge-starter)
 
-#### `2024.07.03.` SASREC
+#### `2024.06.05.` SASREC
 
 - **Paper** : ["Self-Attentive Sequential Recommendation", Kang and McAuley, ICDM, 2018](https://ieeexplore.ieee.org/abstract/document/8594844?casa_token=JT5smtt5Z5sAAAAA:lFfXP_q_01zzLRSEc7p1zEyR_jZ7l1VjeTTCOUO6QMkDmw6HUM0BDtBSnPGpvH6XZmxvQwnGi-r7)
 - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`Amazon VideoGame`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
-#### `2024.07.10.` BERT4REC
+#### `2024.06.19.` BERT4REC
 
 - **Paper** : ["BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer", Sun et al., CIKM, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357895?casa_token=FdOnUIipxhwAAAAA:jXWonRcvhqi5WJFCb_hKPdJMAWgvZI9YJzI4qn20pSMM7N6FrxdvcL9g9h1pAibEFy5eiD_z4N9XmbE)
 - **DataSet** : [`Steam Store Sales`](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset) [`Amazon Beauty`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) [`MovieLens`](https://grouplens.org/datasets/movielens/)
@@ -101,22 +101,22 @@
 
 ### RecSys leveraging Bayesian Modeling
 
-#### `2024.07.17.` BPMF
+#### `2024.07.03.` BPMF
 
 - **Paper** :
 - **DataSet** :
 
-#### `2024.07.24.` Mult-VAE
+#### `2024.07.10.` Mult-VAE
 
 - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
 - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
-#### `2024.07.31.` NVMF
+#### `2024.07.17.` NVMF
 
 - **Paper** :
 - **DataSet** :
 
-#### `2024.08.07.` BDNet
+#### `2024.07.24.` BDNet
 
 - **Paper** :
 - **DataSet** :
