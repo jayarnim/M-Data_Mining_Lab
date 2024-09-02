@@ -53,7 +53,7 @@
 
 ## Factorization Machine Series
 
-- **`2024.04.03.` Factorization Machines**
+- **`2024.04.03.` FM**
   - **Paper** : ["Factorization Machines", Rendle, ICDM, 2010](https://ieeexplore.ieee.org/abstract/document/5694074?casa_token=PxTxcXYbSBEAAAAA:94LVL0iDWaWBXagioWFO-JagI4rp2mGkpcl-agJtPsKwhs7WhMS-f5mitp-OrI5z8M2bcAUrzLBR)
   - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
 
