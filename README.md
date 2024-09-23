@@ -58,8 +58,7 @@
   - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`ECML/PKDD Discovery Challenge 2009`](https://www.kde.cs.uni-kassel.de/wp-content/uploads/ws/dc09/dataset.html)
 
 - **`2024.04.17.` Wide & Deep Learning**
-  - **Paper** :
-  - **DataSet** :
+  - **Paper** : ["Wide & Deep Learning for Recommender Systems", Cheng et al., DLRS, 2016](https://dl.acm.org/doi/abs/10.1145/2988450.2988454)
 
 - **`2024.05.01.` DeepFM**
   - **Paper** : ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction", Guo et al., IJCAI, 2017](https://arxiv.org/abs/1703.04247)
