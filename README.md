@@ -46,8 +46,8 @@
   - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/)
 
 - **`2024.03.20.` CDAE**
-  - **Paper** :
-  - **DataSet** :
+  - **Paper** : ["Collaborative Denoising Auto-Encoders for Top-N Recommender Systems". Wu et al., WSDM, 2016](https://dl.acm.org/doi/10.1145/2835776.2835837)
+  - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Yelp`](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data?select=yelp_academic_dataset_business.json)
 
 </br>
 
