@@ -8,7 +8,9 @@
 
 ## ProLogue
 
-- **`2024.01.18.` What? RecSys**
+- **`2024.01.11.` What? RecSys**
+
+- **`2024.01.18.` Memory based Collaborative Filtering**
 
 </br>
 
@@ -39,7 +41,7 @@
 
 </br>
 
-## Latent Factor Model leveraging Deep Learning Techs
+## Collaborative Filtering using Deep Learning Techs
 
 - **`2024.03.06.` NCF**
   - **Paper** : ["Neural Collaborative Filtering", He et al., WWW, 2017](https://dl.acm.org/doi/abs/10.1145/3038912.3052569?casa_token=xJcQ62dMU8kAAAAA:erA0iE1l2Pxdx8qpbMFCh7Z6-qc02h-yCXcoaWJN5E4pJwMwu6RVRoMrBdUSFJ_yrHGdTfVtJR67EPw)
@@ -82,7 +84,7 @@
 
 </br>
 
-## RecSys leveraging Bayesian Modeling
+## RecSys using Bayesian Modeling
 
 - **`2024.07.17.` BPMF**
   - **Paper** : ["Bayesian probabilistic matrix factorization using Markov chain Monte Carlo", Salakhutdinov et. al., ICML, 2008](https://dl.acm.org/doi/abs/10.1145/1390156.1390267?casa_token=qcXfuanisHUAAAAA:1kvcFcEIDLbBTKptsE1CPjTQToi0mpGtJpYS7hHSTW2yKdoT2pUpNdfY7TARrnNdKC2FaIqIaULwOow)
