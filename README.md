@@ -100,22 +100,22 @@
 
 ## Graph based RecSys
 
-- **`2025.01.01.` Pixie**; PageRank based RecSys
+- **`2025.01.29.` Pixie**; PageRank based RecSys
   - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
-- **`2025.01.08.`** DeepWalk based RecSys
+- **`2025.02.05.`** DeepWalk based RecSys
   - **Paper** : [“Fusion recommendation algorithm based on DeepWalk and Item-Based collaborative filtering”, Yu et al., ICCSMT, 2022](https://ieeexplore.ieee.org/document/10143818)
   - **DataSet** :
 
-- **`2025.01.15.` PinSAGE**; GraphSAGE based RecSys
+- **`2025.02.12.` PinSAGE**; GraphSAGE based RecSys
     - **Paper** : ["Graph Convolutional Neural Networks for Web-Scale Recommender Systems", Ying et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
     - **DataSet** : 
 
-- **`2025.01.22.` RippleNet**; Knowledge Graph based RecSys
+- **`2025.02.19.` RippleNet**; Knowledge Graph based RecSys
     - **Paper** : [“RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems”, Wang et al., CIKM, 2018](https://dl.acm.org/doi/abs/10.1145/3269206.3271739?casa_token=R1-vKJgCzrsAAAAA:x-U83HRTCb83izvU4lkdL29VKSeUgBBgFOpgWmjwpsa6PGdjVig-jaoUI6YdzKY6LihmfGshjhcp2Ks)
     - **DataSet** : 
 
-- **`2025.01.29.` KGAT**; Graph Attention based RecSys
+- **`2025.02.26.` KGAT**; Graph Attention based RecSys
     - **Paper** : ["KGAT: Knowledge Graph Attention Network for Recommendation", Wang et al., KDD, 2019](https://dl.acm.org/doi/abs/10.1145/3292500.3330989?casa_token=H-IaOAQVwHwAAAAA:2299fELWgPC7Y7f14vmWKDt0ZhrWV3I01NYuM6s1CoOyEwrltgYDzs1jP6GK_zU6v5qiwXHByDAqmIQ)
     - **DataSet** : 
 
