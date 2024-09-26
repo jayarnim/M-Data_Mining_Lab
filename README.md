@@ -105,7 +105,7 @@
 - **`2025.01.29.` Pixie**; PageRank based RecSys
   - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
-- **`2025.02.05.` DACF;** DeepWalk based RecSys
+- **`2025.02.05.` DACF**; DeepWalk based RecSys
   - **Paper** : [“Fusion recommendation algorithm based on DeepWalk and Item-Based collaborative filtering”, Yu et al., ICCSMT, 2022](https://ieeexplore.ieee.org/document/10143818)
   - **DataSet** :
 
