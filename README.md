@@ -84,21 +84,17 @@
 
 ## RecSys leveraging Bayesian Modeling
 
-- **`2024.07.03.` BPMF**
-  - **Paper** :
-  - **DataSet** :
+- **`2024.07.17.` BPMF**
+  - **Paper** : ["Bayesian probabilistic matrix factorization using Markov chain Monte Carlo", Salakhutdinov et. al., ICML, 2008](https://dl.acm.org/doi/abs/10.1145/1390156.1390267?casa_token=qcXfuanisHUAAAAA:1kvcFcEIDLbBTKptsE1CPjTQToi0mpGtJpYS7hHSTW2yKdoT2pUpNdfY7TARrnNdKC2FaIqIaULwOow)
+  - **DataSet** : [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
-- **`2024.07.10.` Mult-VAE**
+- **`2024.07.24.` Mult-VAE**
   - **Paper** : ["Variational Autoencoders for Collaborative Filtering", Liang et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)
-  - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song Dataset`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
+  - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
-- **`2024.07.17.` VABMF**
-  - **Paper** :
-  - **DataSet** :
-
-- **`2024.07.24.` BDNet**
-  - **Paper** :
-  - **DataSet** :
+- **`2024.07.31.` VABMF**
+  - **Paper** : ["Variational autoencoder Bayesian matrix factorization (VABMF) for collaborative filtering", Aldhubri et. al., Applied Intelligence, 2021](https://link.springer.com/article/10.1007/s10489-020-02049-9)
+  - **DataSet** : [`MovieLens`](https://grouplens.org/datasets/movielens/) [`Netflix Prize`](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) [`Million Song`](https://www.kaggle.com/datasets/ryanholbrook/the-million-songs-dataset)
 
 </br>
 
@@ -107,9 +103,9 @@
 - **`2025.01.01.` Pixie**; PageRank based RecSys
   - **Paper** : ["Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time", Eksombatchai et al., WWW, 2018](https://dl.acm.org/doi/abs/10.1145/3178876.3186183)
 
-- **`2025.01.08.` EGES**; DeepWalk based RecSys
-  - **Paper** : [“Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba”, Wang et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219869?casa_token=GZdt3pMrclMAAAAA:3ibqOAtkUJToggQLyiDIeqhX9HqhZrvkkGoH8NX2bEEPJLsaydyR6qgVLEiaaut5S3zHImnY189XDx4)
-  - **DataSet** : [`Amazon Electronics`](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
+- **`2025.01.08.`** DeepWalk based RecSys
+  - **Paper** : [“Fusion recommendation algorithm based on DeepWalk and Item-Based collaborative filtering”, Yu et al., ICCSMT, 2022](https://ieeexplore.ieee.org/document/10143818)
+  - **DataSet** :
 
 - **`2025.01.15.` PinSAGE**; GraphSAGE based RecSys
     - **Paper** : ["Graph Convolutional Neural Networks for Web-Scale Recommender Systems", Ying et al., KDD, 2018](https://dl.acm.org/doi/abs/10.1145/3219819.3219890?casa_token=Au-umXQUZ1kAAAAA:lJzYsga18v6bN9pxyApAxnegROTbuvoCB8ukqZ3A8NiPKxY7sfXdSHsvu4eCIWgtQFoS0AaZFSzjHHY)
