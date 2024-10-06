@@ -8,6 +8,7 @@
 
 ## Seminar
 
+- **`2024.01.04.`** Proposal and Accept
 - **`2024.01.18.`** What? RecSys [`review`](https://jayarnim.github.io/posts/What_RecSys/)
 - **`2024.01.25.`** Memory based Collaborative Filtering [`review`](https://jayarnim.github.io/posts/CF/)
 - **`2024.02.01.`** Latent Factor Model [`review`](https://jayarnim.github.io/posts/LFM/)
