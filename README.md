@@ -32,9 +32,7 @@
 - **`2024.08.07.`** EXMF [`review`](https://jayarnim.github.io/posts/EXMF/)
 - **`2024.08.14.`** FAWMF [`review`](https://jayarnim.github.io/posts/FAWMF/) [`code`]()
 - **`2024.08.21.`** BPR [`review`](https://jayarnim.github.io/posts/BPR/)
-- **`2024.08.28.`** APR [`review`](https://jayarnim.github.io/posts/APR/) [`code`]()
-- **`2024.09.05.`** FSBPR [`review`](https://jayarnim.github.io/posts/FSBPR/) [`code`]()
-- **`2024.09.19.`** Bayesian Attention Modules [`review`](https://jayarnim.github.io/posts/Bayesian_Attention_Modules/)
+- **`2024.08.28.`** Bayesian Attention Modules [`review`](https://jayarnim.github.io/posts/Bayesian_Attention_Modules/)
 
 </br>
 
